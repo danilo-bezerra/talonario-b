@@ -6,9 +6,10 @@ import { NavigationContainer } from "@react-navigation/native";
 import { UserContext } from "../contexts/UserContext";
 import { Logar } from '../pages/Logar';
 import HomeRoutes from "./HomeRoutes";
+import { useTheme } from 'native-base';
 import SignOut from "../pages/SignOut";
 import theme from "../assets/theme";
-
+const { colors } = useTheme();
 const Drawer = createDrawerNavigator();
 
 export default function Routes() {
