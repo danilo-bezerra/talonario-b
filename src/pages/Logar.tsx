@@ -1,22 +1,21 @@
-import { useState, useContext } from 'react';
-import { Alert } from 'react-native';
+import React, { useState, useContext } from 'react';
 import  { UserContext } from "../contexts/UserContext";
 import { VStack, Heading, Icon, useTheme, Image } from 'native-base';
-import { Envelope, Key, Eye } from 'phosphor-react-native';
-import React from 'react';
-
-
+import { Ionicons } from "@expo/vector-icons";
+import { Suporte } from "./Suporte"
+import { Alert } from "react-native"
 import { Input } from '../components/Entrada';
 import { Button } from '../components/Botao';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 export function Logar() {
-  
+  const Stack = createNativeStackNavigator();
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(true);
   const { signIn, isLoading } = useContext(UserContext);
   const { colors } = useTheme();
-
+  
   return (
     <VStack flex={1} alignItems="center" bg="gray.600" px={8} pt={24}>
     
@@ -32,14 +31,14 @@ export function Logar() {
       <Input
         mb={4}
         placeholder="E-mail"
-        InputLeftElement={<Icon as={<Envelope color={colors.gray[300]} />} ml={4} />}
+        InputLeftElement={<Icon as={<Ionicons name={"mail"} color={colors.gray[300]} />} ml={4} />}
         onChangeText={setEmail}
       />
 
       <Input
         mb={8}
         placeholder="Senha"
-        InputLeftElement={<Icon as={<Key color={colors.gray[300]} />} ml={4} />}
+        InputLeftElement={<Icon as={<Ionicons name={"key"} color={colors.gray[300]} />} ml={4} />}
         secureTextEntry={showPassword}
         onChangeText={setPassword}/>
           
@@ -55,5 +54,6 @@ export function Logar() {
         isLoading={isLoading}
       />
     </VStack>
+    
   )
 }

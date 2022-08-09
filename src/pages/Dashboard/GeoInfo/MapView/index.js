@@ -1,14 +1,14 @@
 import * as React from "react";
 import MapView from "react-native-maps";
-import { StyleSheet, View, Text } from "react-native";
+import { StyleSheet } from "react-native";
 import useLocation from "../../../../hooks/useLocation";
-
+import { VStack, Text} from "native-base";
 export default function () {
   const { latitude, longitude, address } = useLocation();
 
   if (latitude && longitude) {
     return (
-      <View style={styles.container}>
+      <VStack style={styles.container}>
         <MapView
           style={styles.map}
           region={{
@@ -18,13 +18,13 @@ export default function () {
             longitudeDelta: 0.005,
           }}
         />
-      </View>
+      </VStack>
     );
   } else {
     return (
-      <View style={styles.container}>
+      <VStack style={styles.container}>
         <Text>Buscando...</Text>
-      </View>
+      </VStack>
     );
   }
 }

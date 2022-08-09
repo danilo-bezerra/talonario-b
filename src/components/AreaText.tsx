@@ -1,11 +1,11 @@
-import { VStack, Input as NativeBaseInput, IInputProps, Heading as Label } from 'native-base';
+import { TextArea, IInputProps } from 'native-base';
 import React from 'react';
 
-export function Input({  ...rest }: IInputProps) {
+export function AreaText({ ...rest }: IInputProps) {
   return (
-    <NativeBaseInput
+    <TextArea
       bg="gray.700"
-      h={14}
+      h={120}
       size="md"
       borderWidth={0}
       fontSize="md"

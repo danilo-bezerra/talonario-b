@@ -1,12 +1,8 @@
 import styled from "styled-components/native";
 
 import { Ionicons } from "@expo/vector-icons";
-
-import Page from "../../../components/Page";
-import Text from "../../../components/Text";
-
+import { Text } from "native-base"
 import MapView from "./MapView";
-
 import useLocation from "../../../hooks/useLocation";
 import useFormatedDate from "../../../hooks/useFormatedDate";
 import { useState } from "react";
@@ -46,11 +42,11 @@ export default function GeoInfo() {
     <GeoInfoContainer>
       <MapView />
       <TextContainer>
-        <Text>Latitude: {latitude || "Buscando..."}</Text>
-        <Text>Longitude: {longitude || "Buscando..."}</Text>
-        <Text>Data: {formatedDate}</Text>
-        <Text>Hora: {formatedHours}</Text>
-        <Text>
+        <Text color={"white"}>Latitude: {latitude || "Buscando..."}</Text>
+        <Text color={"white"}>Longitude: {longitude || "Buscando..."}</Text>
+        <Text color={"white"}>Data: {formatedDate}</Text>
+        <Text color={"white"}>Hora: {formatedHours}</Text>
+        <Text color={"white"}>
           Endereço:
           {` ${address?.street}, ${address?.district}, ${address?.subregion} - ${address?.region}, Brasil`}
         </Text>
