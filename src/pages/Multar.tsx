@@ -14,7 +14,7 @@ import { Infracoes } from "./Infracoes"
     const [erroPlaca, setErroPlaca]= useState(false)
     function ValidarPlaca(){
      
-      const regex = /[A-Za-z]{3}[0-9][0-9A-Za-z][0-9]{2}/;
+      const regex = /[A-Za-z]{3}-?[0-9][0-9A-Za-z][0-9]{2}/;
       if (regex.test(Placa)){
         setErroPlaca(false);
         Alert.alert("Certo")

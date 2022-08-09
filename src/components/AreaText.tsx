@@ -11,6 +11,7 @@ export function AreaText({ ...rest }: IInputProps) {
       fontSize="md"
       fontFamily="body"
       color="white"
+      autoCompleteType={false}
       placeholderTextColor="gray.300"
       _focus={{
         borderWidth: 1,

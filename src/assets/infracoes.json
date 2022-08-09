@@ -1,0 +1,4811 @@
+[
+    {
+        "id": 1,
+        "artigo": "162 I",
+        "codigo": "5010",
+        "desob": "0",
+        "descricao": "Dirigir veículo sem possuir CNH ou Permissão para Dirigir ."
+    },
+    {
+        "id": 2,
+        "artigo": "162 I",
+        "codigo": "5010",
+        "desob": "1",
+        "descricao": "Dirigir veículo sem possuir CNH ."
+    },
+    {
+        "id": 3,
+        "artigo": "162 I",
+        "codigo": "5010",
+        "desob": "2",
+        "descricao": "Dirigir veículo sem possuir permissão para dirigir."
+    },
+    {
+        "id": 4,
+        "artigo": "162 II",
+        "codigo": "5029",
+        "desob": "0",
+        "descricao": "Dirigir veículo com CNH ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir."
+    },
+    {
+        "id": 5,
+        "artigo": "162 II",
+        "codigo": "5029",
+        "desob": "1",
+        "descricao": "Dirigir veículo com CNH cassada."
+    },
+    {
+        "id": 6,
+        "artigo": "162 II",
+        "codigo": "5029",
+        "desob": "2",
+        "descricao": "Dirigir veículo com Permissão para dirigir cassada."
+    },
+    {
+        "id": 7,
+        "artigo": "162 II",
+        "codigo": "5029",
+        "desob": "3",
+        "descricao": "Dirigir veículo com CNH, com suspensão do direito de dirigir."
+    },
+    {
+        "id": 8,
+        "artigo": "162 II",
+        "codigo": "5029",
+        "desob": "4",
+        "descricao": "Dirigir veículo com Permissão para dirigir com suspensão do direito de dirigir."
+    },
+    {
+        "id": 9,
+        "artigo": "162 III",
+        "codigo": "5037",
+        "desob": "0",
+        "descricao": "Dirigir veículo com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo."
+    },
+    {
+        "id": 10,
+        "artigo": "162 III",
+        "codigo": "5037",
+        "desob": "1",
+        "descricao": "Dirigir veículo com CNH de categoria diferente da do veículo que esteja conduzindo."
+    },
+    {
+        "id": 11,
+        "artigo": "162 III",
+        "codigo": "5037",
+        "desob": "2",
+        "descricao": "Dirigir veículo com Permissão para dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "id": 12,
+        "artigo": "162 V",
+        "codigo": "5045",
+        "desob": "0",
+        "descricao": "Dirigir veículo com validade da CNH vencida a mais de trinta dias ."
+    },
+    {
+        "id": 13,
+        "artigo": "162 VI",
+        "codigo": "5053",
+        "desob": "0",
+        "descricao": "Dirigir o veículo sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou renovação da licença para conduzir."
+    },
+    {
+        "id": 14,
+        "artigo": "162 VI",
+        "codigo": "5053",
+        "desob": "1",
+        "descricao": "Dirigir veículo sem usar lentes corretoras de visão ."
+    },
+    {
+        "id": 15,
+        "artigo": "162 VI",
+        "codigo": "5053",
+        "desob": "2",
+        "descricao": "Dirigir veículo sem usar aparelho auxiliar de audição ."
+    },
+    {
+        "id": 16,
+        "artigo": "162 VI",
+        "codigo": "5053",
+        "desob": "3",
+        "descricao": "Dirigir veículo sem usar prótese física ."
+    },
+    {
+        "id": 17,
+        "artigo": "162 VI",
+        "codigo": "5053",
+        "desob": "4",
+        "descricao": "Dirigir veículo sem usar sem usar as adaptações do veículo impostas por ocasião da concessão."
+    },
+    {
+        "id": 18,
+        "artigo": "162 VI",
+        "codigo": "5053",
+        "desob": "5",
+        "descricao": "Dirigir veículo sem a renovação da licença para conduzir."
+    },
+    {
+        "id": 19,
+        "artigo": "163",
+        "codigo": "5061",
+        "desob": "1",
+        "descricao": "Entregar a direção do veículo a pessoa que não possua CNH ."
+    },
+    {
+        "id": 20,
+        "artigo": "163",
+        "codigo": "5061",
+        "desob": "2",
+        "descricao": "Entregar a direção do veículo a pessoa que não possua Permissão para dirigir."
+    },
+    {
+        "id": 21,
+        "artigo": "163",
+        "codigo": "5061",
+        "desob": "0",
+        "descricao": "Entregar a direção do veículo a pessoa que não possua CNH ou permissão para dirigir ."
+    },
+    {
+        "id": 22,
+        "artigo": "163",
+        "codigo": "5070",
+        "desob": "0",
+        "descricao": "Entregar a direção do veículo a pessoa com CNH ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir ."
+    },
+    {
+        "id": 23,
+        "artigo": "163",
+        "codigo": "5070",
+        "desob": "1",
+        "descricao": "Entregar a direção do veículo a pessoa com CNH cassada."
+    },
+    {
+        "id": 24,
+        "artigo": "163",
+        "codigo": "5070",
+        "desob": "4",
+        "descricao": "Entregar a direção do veículo a pessoa com Permissão para dirigir com suspensão do direito de dirigir ."
+    },
+    {
+        "id": 25,
+        "artigo": "163",
+        "codigo": "5070",
+        "desob": "2",
+        "descricao": "Entregar a direção do veículo a pessoa com Permissão para dirigir cassada ."
+    },
+    {
+        "id": 26,
+        "artigo": "163",
+        "codigo": "5070",
+        "desob": "3",
+        "descricao": "Entregar a direção do veículo a pessoa com CNH com suspensão do direito de dirigir."
+    },
+    {
+        "id": 27,
+        "artigo": "163",
+        "codigo": "5088",
+        "desob": "0",
+        "descricao": "Entregar a direção do veículo a pessoa com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "id": 28,
+        "artigo": "163 c/c 162 III",
+        "codigo": "5088",
+        "desob": "1",
+        "descricao": "Entregar veículo a pessoa com CNH de categoria diferente da do veículo."
+    },
+    {
+        "id": 29,
+        "artigo": "163",
+        "codigo": "5088",
+        "desob": "2",
+        "descricao": "Entregar a direção do veículo a pessoa com Permissão para Dirigir, de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "id": 30,
+        "artigo": "163",
+        "codigo": "5096",
+        "desob": "0",
+        "descricao": "Entregar a direção do veículo a pessoa com validade da CNH, vencida a mais de trinta dias ."
+    },
+    {
+        "id": 31,
+        "artigo": "163",
+        "codigo": "5100",
+        "desob": "0",
+        "descricao": "Entregar a direção do veículo a pessoa sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou renovação da licença para conduzir ."
+    },
+    {
+        "id": 32,
+        "artigo": "163",
+        "codigo": "5100",
+        "desob": "1",
+        "descricao": "Entregar a direção do veículo a pessoa sem usar lentes corretoras de visão."
+    },
+    {
+        "id": 33,
+        "artigo": "163",
+        "codigo": "5100",
+        "desob": "2",
+        "descricao": "Entregar a direção do veículo a pessoa sem usar aparelho auxiliar de audição."
+    },
+    {
+        "id": 34,
+        "artigo": "163",
+        "codigo": "5100",
+        "desob": "3",
+        "descricao": "Entregar a direção do veículo a pessoa sem usar prótese física."
+    },
+    {
+        "id": 35,
+        "artigo": "164",
+        "codigo": "5118",
+        "desob": "1",
+        "descricao": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, a pessoa que não possua CNH ."
+    },
+    {
+        "id": 36,
+        "artigo": "164",
+        "codigo": "5118",
+        "desob": "2",
+        "descricao": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, a pessoa que não possua Permissão para Dirigir."
+    },
+    {
+        "id": 37,
+        "artigo": "163",
+        "codigo": "5100",
+        "desob": "4",
+        "descricao": "Entregar a direção do veículo a pessoa sem usar as adaptações do veículo, impostas por ocasião da concessão ."
+    },
+    {
+        "id": 38,
+        "artigo": "163",
+        "codigo": "5100",
+        "desob": "5",
+        "descricao": "Entregar a direção do veículo a pessoa sem a licença para conduzir."
+    },
+    {
+        "id": 39,
+        "artigo": "164",
+        "codigo": "5118",
+        "desob": "0",
+        "descricao": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via a pessoa que não possua CNH ou Permissão para Dirigir."
+    },
+    {
+        "id": 40,
+        "artigo": "164",
+        "codigo": "5126",
+        "desob": "0",
+        "descricao": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, pessoa com CNH ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir ."
+    },
+    {
+        "id": 41,
+        "artigo": "164",
+        "codigo": "5126",
+        "desob": "4",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com Permissão para Dirigir suspensa ."
+    },
+    {
+        "id": 42,
+        "artigo": "164",
+        "codigo": "5126",
+        "desob": "1",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com CNH cassada ."
+    },
+    {
+        "id": 43,
+        "artigo": "164",
+        "codigo": "5126",
+        "desob": "2",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com Permissão para Dirigir cassada."
+    },
+    {
+        "id": 44,
+        "artigo": "163 c/c 162 II",
+        "codigo": "5126",
+        "desob": "3",
+        "descricao": "Permitir posse/condução veíc pessoa com CNH/PPD c/ suspensão direito de dirigir ."
+    },
+    {
+        "id": 45,
+        "artigo": "164",
+        "codigo": "5134",
+        "desob": "0",
+        "descricao": "Permitir que tome posse do veículo automotor e passe a conduzi-lo na via, a pessoa com CNH ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "id": 46,
+        "artigo": "164",
+        "codigo": "5134",
+        "desob": "1",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com CNH de categoria diferente da do veículo que esteja conduzindo."
+    },
+    {
+        "id": 47,
+        "artigo": "164",
+        "codigo": "5134",
+        "desob": "2",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa com Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo ."
+    },
+    {
+        "id": 48,
+        "artigo": "164",
+        "codigo": "5142",
+        "desob": "0",
+        "descricao": "Permitir que tome posse do veículo epasse a conduzi-lo na via a pessoa com validade da CNH vencida a mais de trinta dias."
+    },
+    {
+        "id": 49,
+        "artigo": "164",
+        "codigo": "5150",
+        "desob": "0",
+        "descricao": "Permitir que tome posse do veículo epasse a conduzi-lo na via a pessoasem usar lentes corretoras de visão , aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou renovação da licença para conduzir ."
+    },
+    {
+        "id": 50,
+        "artigo": "164",
+        "codigo": "5150",
+        "desob": "1",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem usar lentes corretoras de visão ."
+    },
+    {
+        "id": 51,
+        "artigo": "164",
+        "codigo": "5150",
+        "desob": "2",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem usar aparelho auxiliar de audição ."
+    },
+    {
+        "id": 52,
+        "artigo": "164",
+        "codigo": "5150",
+        "desob": "3",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem usarprótese física."
+    },
+    {
+        "id": 53,
+        "artigo": "163 c/c 162 VI",
+        "codigo": "5150",
+        "desob": "4",
+        "descricao": "Permitir posse/cond veíc s/ adaptações impostas concessão/renovação licença cond."
+    },
+    {
+        "id": 54,
+        "artigo": "164",
+        "codigo": "5150",
+        "desob": "5",
+        "descricao": "Permitir que tome posse do veículo e passe a conduzi-lo na via a pessoa sem a renovação de licença para conduzir."
+    },
+    {
+        "id": 55,
+        "artigo": "165",
+        "codigo": "5169",
+        "desob": "0",
+        "descricao": "Dirigir sob influência de álcool, em nível superior a seis decigramas por litro de sangue ou de qualquer substância entorpecente ou que determine dependência física ou psíquica."
+    },
+    {
+        "id": 56,
+        "artigo": "165",
+        "codigo": "5169",
+        "desob": "1",
+        "descricao": "Dirigir sob a influência de álcool."
+    },
+    {
+        "id": 57,
+        "artigo": "165",
+        "codigo": "5169",
+        "desob": "2",
+        "descricao": "Dirigir sob influência subst entorpecente ou q determine depend física/psíquica ."
+    },
+    {
+        "id": 58,
+        "artigo": "165",
+        "codigo": "5169",
+        "desob": "3",
+        "descricao": "Dirigir sob influência de substância que determine dependência física ou psíquica ."
+    },
+    {
+        "id": 59,
+        "artigo": "166",
+        "codigo": "5177",
+        "desob": "0",
+        "descricao": "Confiar ou entregar a direção do veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança ."
+    },
+    {
+        "id": 60,
+        "artigo": "166",
+        "codigo": "5177",
+        "desob": "1",
+        "descricao": "Confiar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança ."
+    },
+    {
+        "id": 61,
+        "artigo": "166",
+        "codigo": "5177",
+        "desob": "2",
+        "descricao": "Entregar a direção de veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigi-lo com segurança."
+    },
+    {
+        "id": 62,
+        "artigo": "167",
+        "codigo": "5185",
+        "desob": "0",
+        "descricao": "Deixar o condutor ou passageiro de usar o cinto de segurança."
+    },
+    {
+        "id": 63,
+        "artigo": "167",
+        "codigo": "5185",
+        "desob": "1",
+        "descricao": "Deixar o condutor de usar o cinto de segurança."
+    },
+    {
+        "id": 64,
+        "artigo": "167",
+        "codigo": "5185",
+        "desob": "2",
+        "descricao": "Deixar o passageiro de usar o cinto de segurança."
+    },
+    {
+        "id": 65,
+        "artigo": "168",
+        "codigo": "5193",
+        "desob": "0",
+        "descricao": "Transportar criança sem observância das normas de segurança estabelecidas p/ CTB."
+    },
+    {
+        "id": 66,
+        "artigo": "169",
+        "codigo": "5207",
+        "desob": "0",
+        "descricao": "Dirigir sem atenção ou sem os cuidados indispensáveis a segurança ."
+    },
+    {
+        "id": 67,
+        "artigo": "171",
+        "codigo": "5223",
+        "desob": "3",
+        "descricao": "Usar o veículo para arremessar detritos sobre os pedestres."
+    },
+    {
+        "id": 68,
+        "artigo": "171",
+        "codigo": "5223",
+        "desob": "4",
+        "descricao": "Usar o veículo para arremessar detritos sobre os veículos ."
+    },
+    {
+        "id": 69,
+        "artigo": "170",
+        "codigo": "5215",
+        "desob": "0",
+        "descricao": "Dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos ."
+    },
+    {
+        "id": 70,
+        "artigo": "170",
+        "codigo": "5215",
+        "desob": "1",
+        "descricao": "Dirigir ameaçando os pedestres que estejam atravessando a via pública ."
+    },
+    {
+        "id": 71,
+        "artigo": "170",
+        "codigo": "5215",
+        "desob": "2",
+        "descricao": "Dirigir ameaçando os demais veículos."
+    },
+    {
+        "id": 72,
+        "artigo": "171",
+        "codigo": "5223",
+        "desob": "0",
+        "descricao": "Usar o veículo para arremessar água ou detritos sobre os pedestres ou veículos."
+    },
+    {
+        "id": 73,
+        "artigo": "171",
+        "codigo": "5223",
+        "desob": "1",
+        "descricao": "Usar o veículo para arremessar águaou detritos sobre os pedestres ."
+    },
+    {
+        "id": 74,
+        "artigo": "171",
+        "codigo": "5223",
+        "desob": "2",
+        "descricao": "Usar o veículo para arremessar água ou detritos sobre os veículos ."
+    },
+    {
+        "id": 75,
+        "artigo": "172",
+        "codigo": "5231",
+        "desob": "0",
+        "descricao": "Atirar do veículo ou abandonar na via pública objetos ou substâncias."
+    },
+    {
+        "id": 76,
+        "artigo": "172",
+        "codigo": "5231",
+        "desob": "1",
+        "descricao": "Atirar do veículo na via pública objetos ou substâncias ."
+    },
+    {
+        "id": 77,
+        "artigo": "172",
+        "codigo": "5231",
+        "desob": "2",
+        "descricao": "Abandonar na via pública objetos ou substâncias ."
+    },
+    {
+        "id": 78,
+        "artigo": "173",
+        "codigo": "5240",
+        "desob": "0",
+        "descricao": "Disputar corrida por espírito de emulação ."
+    },
+    {
+        "id": 79,
+        "artigo": "174",
+        "codigo": "5258",
+        "desob": "0",
+        "descricao": "Promover na via, competição esportiva, eventos organizados, exibição e demonstração de perícia em manobras de veículos, sem permissão da Autoridade de Trânsito com circunscrição sob a via ."
+    },
+    {
+        "id": 80,
+        "artigo": "174",
+        "codigo": "5258",
+        "desob": "1",
+        "descricao": "Promover na via competição esportiva sem permissão."
+    },
+    {
+        "id": 81,
+        "artigo": "174",
+        "codigo": "5258",
+        "desob": "2",
+        "descricao": "Promover na via eventos organizados sem permissão ."
+    },
+    {
+        "id": 82,
+        "artigo": "174",
+        "codigo": "5258",
+        "desob": "3",
+        "descricao": "Promover na via exibição e demonstração de perícia em manobra de veículo."
+    },
+    {
+        "id": 83,
+        "artigo": "174",
+        "codigo": "5266",
+        "desob": "0",
+        "descricao": "Participar na via, como condutor de competição esportiva, eventos organizados, exibição e demonstração de perícia em manobra de veículo, sem permissão da Autoridade de Trânsito com circunscrição sobre a via."
+    },
+    {
+        "id": 84,
+        "artigo": "176 I",
+        "codigo": "5282",
+        "desob": "1",
+        "descricao": "Deixar o Condutor envolvido em acidentes com vítima de prestar socorro a vítima, podendo faze-lo."
+    },
+    {
+        "id": 85,
+        "artigo": "176 I",
+        "codigo": "5282",
+        "desob": "2",
+        "descricao": "Deixar o Condutor envolvido em acidentes com vítima de providenciar socorro a vítima, podendo faze -lo."
+    },
+    {
+        "id": 86,
+        "artigo": "174",
+        "codigo": "5266",
+        "desob": "1",
+        "descricao": "Participar na via como condutor em competição esportiva, sem permissão."
+    },
+    {
+        "id": 87,
+        "artigo": "174",
+        "codigo": "5266",
+        "desob": "2",
+        "descricao": "Participar na via, como condutor de eventos organizados sem permissão da Autoridade de Trânsito com circunscrição sobre a via ."
+    },
+    {
+        "id": 88,
+        "artigo": "174",
+        "codigo": "5266",
+        "desob": "3",
+        "descricao": "Participar na via, como condutor de exibição e demonstração de períciaem manobra de veículo, sem permissão da Autoridade de Trânsito com circunscrição sobre a via."
+    },
+    {
+        "id": 89,
+        "artigo": "175",
+        "codigo": "5274",
+        "desob": "0",
+        "descricao": "Utilizar-se do veículo para, em via pública, demonstrar ou exibir manobra perigosa, arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus."
+    },
+    {
+        "id": 90,
+        "artigo": "175",
+        "codigo": "5274",
+        "desob": "1",
+        "descricao": "Utilizar-se de veículo para, em via pública, demonstrar ou exibirmanobra perigosa com deslizamento ou arrastamento de pneus ."
+    },
+    {
+        "id": 91,
+        "artigo": "175",
+        "codigo": "5274",
+        "desob": "2",
+        "descricao": "Utilizar-se de veículo para, em via pública, demonstrar ou exibirarrancada brusca com deslizamento ou arrastamento de pneus ."
+    },
+    {
+        "id": 92,
+        "artigo": "179 I",
+        "codigo": "5355",
+        "desob": "1",
+        "descricao": "Fazer reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado, em pista de rolamento de rodovia e via de trânsito rápido."
+    },
+    {
+        "id": 93,
+        "artigo": "179 I",
+        "codigo": "5355",
+        "desob": "2",
+        "descricao": "Deixar que se faça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado, em pista de rolamento de rodovia e via de trânsito rápido ."
+    },
+    {
+        "id": 94,
+        "artigo": "175",
+        "codigo": "5274",
+        "desob": "3",
+        "descricao": "Utilizar-se de veículo para, em via pública, demonstrar ou exibirderrapagem ou frenagem com deslizamento ou arrastamento de pneus ."
+    },
+    {
+        "id": 95,
+        "artigo": "179 II",
+        "codigo": "5363",
+        "desob": "1",
+        "descricao": "Fazer reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado em outras vias além de pista de rolamento de rodovia e de vias de trânsito rápido ."
+    },
+    {
+        "id": 96,
+        "artigo": "179 II",
+        "codigo": "5363",
+        "desob": "2",
+        "descricao": "Deixar que se faça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção em que o veículo esteja devidamente sinalizado em outras vias além de pista de rolamento de rodovia e de vias de trânsito rápido."
+    },
+    {
+        "id": 97,
+        "artigo": "176 I",
+        "codigo": "5282",
+        "desob": "0",
+        "descricao": "Deixar o condutor envolvido em acidente com vítima de prestar ou providenciar socorro à vítima, podendo faze-lo ."
+    },
+    {
+        "id": 98,
+        "artigo": "176 II",
+        "codigo": "5290",
+        "desob": "0",
+        "descricao": "Deixar o condutor envolvido em acidentes com vítima de adotar providências, podendofaze-lo, no sentido de evitar perigo para o trânsito no local."
+    },
+    {
+        "id": 99,
+        "artigo": "176 III",
+        "codigo": "5304",
+        "desob": "0",
+        "descricao": "Deixar o condutor envolvido em acidentes com vítima de preservar o local, deforma a facilitar os trabalhos da Polícia e da Perícia."
+    },
+    {
+        "id": 100,
+        "artigo": "176 IV",
+        "codigo": "5312",
+        "desob": "0",
+        "descricao": "Deixar o condutor envolvido em acidentes com vítima, de adotar providências para remover o veículo do local, quando determinado por Policial ou Agente da Autoridade de Trânsito."
+    },
+    {
+        "id": 101,
+        "artigo": "176 V",
+        "codigo": "5320",
+        "desob": "0",
+        "descricao": "Deixar o condutor, envolvido em acidentes com vítima de identificar-se ao Policial e de lhe prestar informações necessárias a confecção do Boletim de Ocorrência."
+    },
+    {
+        "id": 102,
+        "artigo": "177",
+        "codigo": "5339",
+        "desob": "0",
+        "descricao": "Deixar o condutor de prestar socorro a vítima de acidente de trânsito, quando solicitado pela Autoridade ou seus Agentes."
+    },
+    {
+        "id": 103,
+        "artigo": "178",
+        "codigo": "5347",
+        "desob": "0",
+        "descricao": "Deixar o condutor, envolvido em acidente sem vítima, de adotar providências para remover o veículo do local, quando necessário tal medida assegurar a segurança e a fluidez do trânsito ."
+    },
+    {
+        "id": 104,
+        "artigo": "179 I",
+        "codigo": "5355",
+        "desob": "0",
+        "descricao": "Fazer ou deixar que sefaça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção e em que o veículo esteja devidamente sinalizado em pista derolamento de rodovias e vias de trânsito rápido ."
+    },
+    {
+        "id": 105,
+        "artigo": "179 II",
+        "codigo": "5363",
+        "desob": "0",
+        "descricao": "Fazer ou deixar que sefaça reparo em veículo na via pública, salvo nos casos de impedimento absoluto de sua remoção e me que o veículo esteja devidamente sinalizado, em outras vias além de pista de rolamento de rodovias e vias de trânsito rápido ."
+    },
+    {
+        "id": 106,
+        "artigo": "180",
+        "codigo": "5371",
+        "desob": "0",
+        "descricao": "Ter o veículo imobilizado na via por falta de combustível ."
+    },
+    {
+        "id": 107,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "1",
+        "descricao": "Estacionar o veículo junto a hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "id": 108,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "2",
+        "descricao": "Estacionar o veículo junto a registro de água, desde que devidamente identificado, conforme especificação do CONTRAN."
+    },
+    {
+        "id": 109,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "3",
+        "descricao": "Estacionar o veículo junto de tampas de poços de visita de galerias subterrâneas, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "id": 110,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "4",
+        "descricao": "Estacionar o veículo sobre hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "id": 111,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "5",
+        "descricao": "Estacionar o veículo sobre registro de água, desde que devidamente identificado, conforme especificação do CONTRAN."
+    },
+    {
+        "id": 112,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "6",
+        "descricao": "Estacionar o veículo sobre de tampas de poços de visita de galerias subterrâneas, desde que devidamente identificado, conforme especificação do CONTRAN ."
+    },
+    {
+        "id": 113,
+        "artigo": "181 I",
+        "codigo": "5380",
+        "desob": "0",
+        "descricao": "Estacionar o veículo nas esquinas e a menos de cinco metros do bordo do alinhamento da via transversal."
+    },
+    {
+        "id": 114,
+        "artigo": "181 II",
+        "codigo": "5398",
+        "desob": "0",
+        "descricao": "Estacionar o veículo afastado da guia da guia da calçada (meio-fio) de cinqüenta centímetros a um metro ."
+    },
+    {
+        "id": 115,
+        "artigo": "181 III",
+        "codigo": "5401",
+        "desob": "0",
+        "descricao": "Estacionar o veículo afastado da guia da guia da calçada (meio-fio) amais de um metro ."
+    },
+    {
+        "id": 116,
+        "artigo": "181 IV",
+        "codigo": "5410",
+        "desob": "0",
+        "descricao": "Estacionar o veículo em desacordo com as posições estabelecidas no CTB."
+    },
+    {
+        "id": 117,
+        "artigo": "181 V",
+        "codigo": "5428",
+        "desob": "0",
+        "descricao": "Estacionar o veículo na pista de rolamento das estradas, das rodovias, das vias de trânsito rápido e das vias dotadas de acostamento."
+    },
+    {
+        "id": 118,
+        "artigo": "181 V",
+        "codigo": "5428",
+        "desob": "1",
+        "descricao": "Estacionar o veículo na pista de rolamentos das estradas."
+    },
+    {
+        "id": 119,
+        "artigo": "181 V",
+        "codigo": "5428",
+        "desob": "2",
+        "descricao": "Estacionar o veículo na pista de rolamentos das rodovias."
+    },
+    {
+        "id": 120,
+        "artigo": "181 V",
+        "codigo": "5428",
+        "desob": "3",
+        "descricao": "Estacionar o veículo na pista de rolamentos das vias de trânsito rápido ."
+    },
+    {
+        "id": 121,
+        "artigo": "181 V",
+        "codigo": "5428",
+        "desob": "4",
+        "descricao": "Estacionar o veículo na pista de rolamentos das vias dotadas de acostamento ."
+    },
+    {
+        "id": 122,
+        "artigo": "181 VI",
+        "codigo": "5436",
+        "desob": "0",
+        "descricao": "Estacionar o veículo junto ou sobre hidrantes de incêndio, registro de água ou tampas de poços de visita de galerias subterrâneas, desde que devidamente identificado, conforme especificação do CONTRAN Estacionar o veículo junto hidrantes de incêndio, desde que devidamente identificado, conforme especificação do CONTRAN."
+    },
+    {
+        "id": 123,
+        "artigo": "181 VII",
+        "codigo": "5444",
+        "desob": "0",
+        "descricao": "Estacionar o veículo nos acostamentos salvo por motivo de força maior ."
+    },
+    {
+        "id": 124,
+        "artigo": "181 XIII",
+        "codigo": "5509",
+        "desob": "1",
+        "descricao": "Estacionar o veículo onde houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo."
+    },
+    {
+        "id": 125,
+        "artigo": "181 XIII",
+        "codigo": "5509",
+        "desob": "2",
+        "descricao": "Estacionar o veículo quando houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo, no intervalo compreendido entre dez metros antes e depois do marco do ponto ."
+    },
+    {
+        "id": 126,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "0",
+        "descricao": "Estacionar o veículo no passeio ou sobre a faixa destinada a pedestres, sobre ciclovias ou ciclofaixas, bem como nas ilhas, refúgios, ao lado ou sobre canteiros centrais, divisores de pista de rolamento, marcas de canalização, gramados ou jardins públicos ."
+    },
+    {
+        "id": 127,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "1",
+        "descricao": "Estacionar o veículo no passeio ."
+    },
+    {
+        "id": 128,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "2",
+        "descricao": "Estacionar o veículo sobre faixas destinadas a pedestres."
+    },
+    {
+        "id": 129,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "3",
+        "descricao": "Estacionar o veículo sobre ciclovia ou ciclofaixa ."
+    },
+    {
+        "id": 130,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "4",
+        "descricao": "Estacionarnas ilhas ou refúgios ."
+    },
+    {
+        "id": 131,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "5",
+        "descricao": "Estacionarao lado ou sobre canteiro central/divisores de pista de rolamento ."
+    },
+    {
+        "id": 132,
+        "artigo": "181VIII",
+        "codigo": "5452",
+        "desob": "6",
+        "descricao": "Estacionarao lado ou sobre marcas de canalização."
+    },
+    {
+        "id": 133,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "7",
+        "descricao": "Estacionarao lado ou sobre gramado ou jardim público."
+    },
+    {
+        "id": 134,
+        "artigo": "181 VIII",
+        "codigo": "5452",
+        "desob": "8",
+        "descricao": "Estacionar o veículo ao lado de canteiros centrais."
+    },
+    {
+        "id": 135,
+        "artigo": "181 IX",
+        "codigo": "5460",
+        "desob": "0",
+        "descricao": "Estacionar o veículo onde houver guia de calçada (meio-fio) rebaixada, destinada à entrada ou saída de veículo."
+    },
+    {
+        "id": 136,
+        "artigo": "181 X",
+        "codigo": "5479",
+        "desob": "0",
+        "descricao": "Estacionar o veículo impedindo a movimentação de outro veículo."
+    },
+    {
+        "id": 137,
+        "artigo": "181 XI",
+        "codigo": "5487",
+        "desob": "0",
+        "descricao": "Estacionar o veículo ao lado de outro veículo em fila dupla ."
+    },
+    {
+        "id": 138,
+        "artigo": "181 XII",
+        "codigo": "5495",
+        "desob": "0",
+        "descricao": "Estacionar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres ."
+    },
+    {
+        "id": 139,
+        "artigo": "181 XIII",
+        "codigo": "5509",
+        "desob": "0",
+        "descricao": "Estacionar o veículo onde houver sinalização horizontal delimitadora de ponto de embarque ou desembarque de passageiros de transporte coletivo, ou na inexistência dessa sinalização, no intervalo compreendido entre dez metros antes e depois do marco do ponto ."
+    },
+    {
+        "id": 140,
+        "artigo": "181 XIV",
+        "codigo": "5517",
+        "desob": "0",
+        "descricao": "Estacionar o veículo nos viadutos, pontes e túneis."
+    },
+    {
+        "id": 141,
+        "artigo": "181 XIV",
+        "codigo": "5517",
+        "desob": "1",
+        "descricao": "Estacionar o veículo nos viadutos ."
+    },
+    {
+        "id": 142,
+        "artigo": "181 XIV",
+        "codigo": "5517",
+        "desob": "2",
+        "descricao": "Estacionar o veículo nas pontes ."
+    },
+    {
+        "id": 143,
+        "artigo": "181 XIV",
+        "codigo": "5517",
+        "desob": "3",
+        "descricao": "Estacionar o veículo nos túneis ."
+    },
+    {
+        "id": 144,
+        "artigo": "181 XV",
+        "codigo": "5525",
+        "desob": "0",
+        "descricao": "Estacionar o veículo na contra mão de direção ."
+    },
+    {
+        "id": 145,
+        "artigo": "181 XVI",
+        "codigo": "5533",
+        "desob": "0",
+        "descricao": "Estacionar o veículo em aclive ou declive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto totalsuperior a três mil e quinhentos quilogramas."
+    },
+    {
+        "id": 146,
+        "artigo": "181 XVI",
+        "codigo": "5533",
+        "desob": "1",
+        "descricao": "Estacionar o veículo em aclive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto totalsuperior a três mil e quinhentos quilogramas ."
+    },
+    {
+        "id": 147,
+        "artigo": "181 XVI",
+        "codigo": "5533",
+        "desob": "2",
+        "descricao": "Estacionar o veículo em declive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto totalsuperior a três mil e quinhentos quilogramas."
+    },
+    {
+        "id": 148,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "0",
+        "descricao": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - estacionamento regulamentado)."
+    },
+    {
+        "id": 149,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "1",
+        "descricao": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização."
+    },
+    {
+        "id": 150,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "2",
+        "descricao": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - estacionamento rotativo)."
+    },
+    {
+        "id": 151,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "3",
+        "descricao": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - ponto ou vaga de táxi)."
+    },
+    {
+        "id": 152,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "4",
+        "descricao": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - área de carga e descarga)."
+    },
+    {
+        "id": 153,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "5",
+        "descricao": "Estacionar o veículo em desacordo com as condições regulamentadas especificamente pela sinalização (placa - vaga para portadores de necessidades especiais)."
+    },
+    {
+        "id": 154,
+        "artigo": "181 XVIII",
+        "codigo": "5550",
+        "desob": "0",
+        "descricao": "Estacionar veículo em locais e horários proibidos especificamente pela sinalização."
+    },
+    {
+        "id": 155,
+        "artigo": "182 I",
+        "codigo": "5576",
+        "desob": "0",
+        "descricao": "Parar o veículo nas esquinas a menos de cinco metros do bordo do alinhamento da via ."
+    },
+    {
+        "id": 156,
+        "artigo": "182 II",
+        "codigo": "5584",
+        "desob": "0",
+        "descricao": "Parar o veículo afastado da guia da calçada (meio-fio) de cinqüenta centímetros a um metro."
+    },
+    {
+        "id": 157,
+        "artigo": "182 III",
+        "codigo": "5592",
+        "desob": "0",
+        "descricao": "Parar o veículo afastado da guia da calçada (meio-fio) a mais de um metro ."
+    },
+    {
+        "id": 158,
+        "artigo": "182 IV",
+        "codigo": "5606",
+        "desob": "0",
+        "descricao": "Parar o veículo em desacordo com as posições estabelecidas no CTB ."
+    },
+    {
+        "id": 159,
+        "artigo": "182 V",
+        "codigo": "5614",
+        "desob": "0",
+        "descricao": "Parar o veículo na pista de rolamento das estradas, das rodovias , das vias de trânsito rápido e das demais vias dotadas de acostamento ."
+    },
+    {
+        "id": 160,
+        "artigo": "182-V",
+        "codigo": "5614",
+        "desob": "1",
+        "descricao": "Parar o veículo na pista de rolamento das estradas dotadas de acostamento ."
+    },
+    {
+        "id": 161,
+        "artigo": "182-V",
+        "codigo": "5614",
+        "desob": "2",
+        "descricao": "Parar na pista de rolamento das rodovias."
+    },
+    {
+        "id": 162,
+        "artigo": "182-V",
+        "codigo": "5614",
+        "desob": "3",
+        "descricao": "Pararna pista de rolamento das vias de trânsito rápido."
+    },
+    {
+        "id": 163,
+        "artigo": "182-V",
+        "codigo": "5614",
+        "desob": "4",
+        "descricao": "Parar o veículo na pista de rolamento das demais vias dotadas de acostamento."
+    },
+    {
+        "id": 164,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "0",
+        "descricao": "Parar o veículo no passeio, sobre faixa destinada a pedestre, nas ilhas, refúgios, canteiros centrais e divisores de pista de rolamento e marcas de canalização ."
+    },
+    {
+        "id": 165,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "1",
+        "descricao": "Para o veículo no passeio ."
+    },
+    {
+        "id": 166,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "2",
+        "descricao": "Para o veículo sobre a faixa destinada a pedestres."
+    },
+    {
+        "id": 167,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "3",
+        "descricao": "Para o veículo nas ilhas."
+    },
+    {
+        "id": 168,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "4",
+        "descricao": "Pararnos canteiros centrais/divisores de pista de rolamento ."
+    },
+    {
+        "id": 169,
+        "artigo": "9.602/98",
+        "codigo": "5754",
+        "desob": "0",
+        "descricao": "REVOGADO PELA LEI 9.602/98 ******** ********# ."
+    },
+    {
+        "id": 170,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "5",
+        "descricao": "Parar em marcas de canalização ."
+    },
+    {
+        "id": 171,
+        "artigo": "188",
+        "codigo": "5762",
+        "desob": "1",
+        "descricao": "Transitar ao lado de outro veículo interrompendo o trânsito ."
+    },
+    {
+        "id": 172,
+        "artigo": "188",
+        "codigo": "5762",
+        "desob": "2",
+        "descricao": "Transitar ao lado de outro veículo perturbando o trânsito ."
+    },
+    {
+        "id": 173,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "6",
+        "descricao": "Para o veículo nos divisores de pistas de rolamento ."
+    },
+    {
+        "id": 174,
+        "artigo": "182 VI",
+        "codigo": "5622",
+        "desob": "7",
+        "descricao": "Parar o veículo nas marcas de canalização ."
+    },
+    {
+        "id": 175,
+        "artigo": "182 VII",
+        "codigo": "5630",
+        "desob": "0",
+        "descricao": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres."
+    },
+    {
+        "id": 176,
+        "artigo": "182 VII",
+        "codigo": "5630",
+        "desob": "1",
+        "descricao": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos."
+    },
+    {
+        "id": 177,
+        "artigo": "182 VII",
+        "codigo": "5630",
+        "desob": "2",
+        "descricao": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de pedestres ."
+    },
+    {
+        "id": 178,
+        "artigo": "182 VIII",
+        "codigo": "5649",
+        "desob": "0",
+        "descricao": "Parar os veículos nos viadutos, pontes e túneis ."
+    },
+    {
+        "id": 179,
+        "artigo": "182 VIII",
+        "codigo": "5649",
+        "desob": "1",
+        "descricao": "Parar o veículo nos viadutos."
+    },
+    {
+        "id": 180,
+        "artigo": "182 VIII",
+        "codigo": "5649",
+        "desob": "2",
+        "descricao": "Parar o veículo nas pontes."
+    },
+    {
+        "id": 181,
+        "artigo": "182 VIII",
+        "codigo": "5649",
+        "desob": "3",
+        "descricao": "Parar o veículo nos túneis."
+    },
+    {
+        "id": 182,
+        "artigo": "182 IX",
+        "codigo": "5657",
+        "desob": "0",
+        "descricao": "Para o veículo na contra mão de direção ."
+    },
+    {
+        "id": 183,
+        "artigo": "182 X",
+        "codigo": "5665",
+        "desob": "0",
+        "descricao": "Parar o veículo em local e horário proibido especificamente pela sinalização."
+    },
+    {
+        "id": 184,
+        "artigo": "183",
+        "codigo": "5673",
+        "desob": "0",
+        "descricao": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso."
+    },
+    {
+        "id": 185,
+        "artigo": "183",
+        "codigo": "5673",
+        "desob": "1",
+        "descricao": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso."
+    },
+    {
+        "id": 186,
+        "artigo": "183",
+        "codigo": "5673",
+        "desob": "2",
+        "descricao": "Parar o veículo sobre a faixa de pedestre na mudança de sinal luminoso ? fiscalização eletrônica."
+    },
+    {
+        "id": 187,
+        "artigo": "184 I",
+        "codigo": "5681",
+        "desob": "0",
+        "descricao": "Transitar com o veículo na faixa ou na pista da direita regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões a direita ."
+    },
+    {
+        "id": 188,
+        "artigo": "184 I",
+        "codigo": "5681",
+        "desob": "1",
+        "descricao": "Transitar com o veículo na faixa da direita regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões a direita ."
+    },
+    {
+        "id": 189,
+        "artigo": "184 I",
+        "codigo": "5681",
+        "desob": "2",
+        "descricao": "Transitar com o veículo na pista da direita regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões a direita ."
+    },
+    {
+        "id": 190,
+        "artigo": "184 II",
+        "codigo": "5690",
+        "desob": "0",
+        "descricao": "Transitar co o veículo na faixa ou pista da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo."
+    },
+    {
+        "id": 191,
+        "artigo": "184 II",
+        "codigo": "5690",
+        "desob": "1",
+        "descricao": "Transitar com o veículo na faixa da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo."
+    },
+    {
+        "id": 192,
+        "artigo": "184 II",
+        "codigo": "5690",
+        "desob": "2",
+        "descricao": "Transitar com o veículo na pista da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo."
+    },
+    {
+        "id": 193,
+        "artigo": "185 I",
+        "codigo": "5703",
+        "desob": "0",
+        "descricao": "Deixar de conservar o veículo, quando estiver em movimento, na faixa a ele destinada pela sinalização de regulamentação, exceto em situação de emergência ."
+    },
+    {
+        "id": 194,
+        "artigo": "185 II",
+        "codigo": "5711",
+        "desob": "0",
+        "descricao": "Deixar de conservar o veículo lento e de maior porte, quando estiver em movimento nas faixas da direita ."
+    },
+    {
+        "id": 195,
+        "artigo": "186 I",
+        "codigo": "5720",
+        "desob": "0",
+        "descricao": "Transitar pela contra-mão de direção em vias de duplo sentido de circulação, exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário ."
+    },
+    {
+        "id": 196,
+        "artigo": "186 II",
+        "codigo": "5738",
+        "desob": "0",
+        "descricao": "Transitar pela contra-mão de direção em vias com sinalização de regulamentação de sentido único de circulação ."
+    },
+    {
+        "id": 197,
+        "artigo": "187 I",
+        "codigo": "5746",
+        "desob": "0",
+        "descricao": "Transitar em locais e horários não permitidos pela regulamentação estabelecida pela Autoridade competente, para todos os veículos ."
+    },
+    {
+        "id": 198,
+        "artigo": "187 I",
+        "codigo": "5746",
+        "desob": "1",
+        "descricao": "Transitar em locais e horários não permitidos pela regulamentação estabelecida pela Autoridade competente, para todos os veículos ."
+    },
+    {
+        "id": 199,
+        "artigo": "187 I",
+        "codigo": "5746",
+        "desob": "2",
+        "descricao": "Transitar em locais e horários não permitidos pela regulamentação estabelecida pela Autoridade competente, para todos os veículos - rodízio ."
+    },
+    {
+        "id": 200,
+        "artigo": "188",
+        "codigo": "5762",
+        "desob": "0",
+        "descricao": "Transitar ao lado de outro veículo interrompendo ou perturbando o trânsito."
+    },
+    {
+        "id": 201,
+        "artigo": "189",
+        "codigo": "5770",
+        "desob": "0",
+        "descricao": "Deixar de dar passagem aos veículos precedidos de batedores, de socorro de incêndio e salvamento, de polícia, de operação e fiscalização de trânsito e as ambulâncias quando em serviço de urgência e devidamente identificados pordispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente."
+    },
+    {
+        "id": 202,
+        "artigo": "189",
+        "codigo": "5770",
+        "desob": "1",
+        "descricao": "Deixar de dar passagem aos veículos precedidos de batedores quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonora e iluminação vermelha intermitente ."
+    },
+    {
+        "id": 203,
+        "artigo": "189",
+        "codigo": "5770",
+        "desob": "2",
+        "descricao": "Deixar de dar passagem aos veículos de socorro de incêndio e de salvamento quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonora e iluminação vermelha intermitente."
+    },
+    {
+        "id": 204,
+        "artigo": "189",
+        "codigo": "5770",
+        "desob": "3",
+        "descricao": "Deixar de dar passagem aos veículos de polícia quando em serviço de urgência e devidamente identificado por dispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente ."
+    },
+    {
+        "id": 205,
+        "artigo": "189",
+        "codigo": "5770",
+        "desob": "4",
+        "descricao": "Deixar de dar passagem aos veículos de operação e fiscalização de trânsito quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente."
+    },
+    {
+        "id": 206,
+        "artigo": "189",
+        "codigo": "5770",
+        "desob": "5",
+        "descricao": "Deixar de dar passagem às ambulâncias quando em serviço de urgência e devidamente identificado pordispositivos regulamentados de alarme sonoro e iluminação vermelha intermitente ."
+    },
+    {
+        "id": 207,
+        "artigo": "190",
+        "codigo": "5789",
+        "desob": "0",
+        "descricao": "Seguir veículo em serviço de urgência, estando este com prioridade de passagem devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitente ."
+    },
+    {
+        "id": 208,
+        "artigo": "191",
+        "codigo": "5797",
+        "desob": "0",
+        "descricao": "Forçar passagem entre veículos que transitando em sentido opostos, estejam na eminência de passar um pelo outro ao realizar operação de ultrapassagem ."
+    },
+    {
+        "id": 209,
+        "artigo": "192",
+        "codigo": "5800",
+        "desob": "0",
+        "descricao": "Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os demais, bem como, em relação ao bordo da pista considerando-se no momento a velocidade, as condições climáticas do local, da circulação e do veículo."
+    },
+    {
+        "id": 210,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "0",
+        "descricao": "Transitar com o veículo em calçadas, passeios, passarelas, ciclovias, ciclofaixas, ilhas, refúgios, ajardinamentos, canteiros centrais e divisores de pista de rolamento, acostamentos, marcas de canalização, gramados e jardins públicos."
+    },
+    {
+        "id": 211,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "1",
+        "descricao": "Transitar com o veículo em calçadas, passeios ."
+    },
+    {
+        "id": 212,
+        "artigo": "200",
+        "codigo": "5886",
+        "desob": "1",
+        "descricao": "Ultrapassar pela direita, veículo de transporte coletivo, parado para embarque ou desembarque de passageiros salvo quando houver refúgio para o pedestre."
+    },
+    {
+        "id": 213,
+        "artigo": "200",
+        "codigo": "5886",
+        "desob": "2",
+        "descricao": "Ultrapassar pela direita, veículo de transporte de escolares, parado para embarque ou desembarque de passageiros, salvo quando houver refúgio para o pedestre ."
+    },
+    {
+        "id": 214,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "2",
+        "descricao": "Transitar com o veículo em ciclovias/ciclofaixas."
+    },
+    {
+        "id": 215,
+        "artigo": "201",
+        "codigo": "5894",
+        "desob": "1",
+        "descricao": "Deixar de guardar a distância lateral de um metro e cinqüenta centímetros, ao passar bicicleta."
+    },
+    {
+        "id": 216,
+        "artigo": "201",
+        "codigo": "5894",
+        "desob": "2",
+        "descricao": "Deixar de guardar a distância lateral de um metro e cinqüenta centímetros, ao ultrapassar bicicleta ."
+    },
+    {
+        "id": 217,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "3",
+        "descricao": "Transitar com o veículo em ajardinamento, gramados/jardins públicos ."
+    },
+    {
+        "id": 218,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "4",
+        "descricao": "Transitar com o veículo em canteiro central ."
+    },
+    {
+        "id": 219,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "5",
+        "descricao": "Transitar com o veículo em ilhas/refúgios ."
+    },
+    {
+        "id": 220,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "6",
+        "descricao": "Transitar com o veículo em divisores de pista de rolamento/marcas de canalização."
+    },
+    {
+        "id": 221,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "7",
+        "descricao": "Transitar com o veículo em acostamento."
+    },
+    {
+        "id": 222,
+        "artigo": "193",
+        "codigo": "5819",
+        "desob": "8",
+        "descricao": "Transitar com o veículo empassarelas."
+    },
+    {
+        "id": 223,
+        "artigo": "194",
+        "codigo": "5827",
+        "desob": "0",
+        "descricao": "Transitar de marcha à ré, salvo na distância necessária a pequenas manobras e de forma a não causar riscos à segurança."
+    },
+    {
+        "id": 224,
+        "artigo": "195",
+        "codigo": "5835",
+        "desob": "0",
+        "descricao": "Desobedecer às ordens emanadas da Autoridade competente de trânsito ou seus Agentes ."
+    },
+    {
+        "id": 225,
+        "artigo": "196",
+        "codigo": "5843",
+        "desob": "0",
+        "descricao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, o início da marcha, a realização da manobra de parar o veículo, a mudança de direção ou de faixa de circulação."
+    },
+    {
+        "id": 226,
+        "artigo": "196",
+        "codigo": "5843",
+        "desob": "1",
+        "descricao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, o início da marcha."
+    },
+    {
+        "id": 227,
+        "artigo": "196",
+        "codigo": "5843",
+        "desob": "2",
+        "descricao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, a realização da manobra de parar o veículo."
+    },
+    {
+        "id": 228,
+        "artigo": "196",
+        "codigo": "5843",
+        "desob": "3",
+        "descricao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, a mudança de direção."
+    },
+    {
+        "id": 229,
+        "artigo": "205",
+        "codigo": "5983",
+        "desob": "1",
+        "descricao": "Ultrapassar veículo em movimento que integre cortejo salvo, com autorização da Autoridade de Trânsito ou seus Agentes ."
+    },
+    {
+        "id": 230,
+        "artigo": "205",
+        "codigo": "5983",
+        "desob": "2",
+        "descricao": "Ultrapassar veículo em movimento que integre préstito salvo, com autorização da Autoridade de Trânsito ou seus Agentes."
+    },
+    {
+        "id": 231,
+        "artigo": "205",
+        "codigo": "5983",
+        "desob": "3",
+        "descricao": "Ultrapassar veículo em movimento que integre desfile salvo, com autorização da Autoridade de Trânsito ou seus Agentes ."
+    },
+    {
+        "id": 232,
+        "artigo": "205",
+        "codigo": "5983",
+        "desob": "4",
+        "descricao": "Ultrapassar veículo em movimento que integre formações militares salvo, com autorização da Autoridade de Trânsito ou seus Agentes ."
+    },
+    {
+        "id": 233,
+        "artigo": "196",
+        "codigo": "5843",
+        "desob": "4",
+        "descricao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção de veículo, a mudança de faixa de circulação."
+    },
+    {
+        "id": 234,
+        "artigo": "197",
+        "codigo": "5851",
+        "desob": "0",
+        "descricao": "Deixar de deslocar com antecedência, o veículo para a faixa mais a esquerda ou mais a direita dentro da respectiva mão de direção quando for manobrar para um desses lados."
+    },
+    {
+        "id": 235,
+        "artigo": "197",
+        "codigo": "5851",
+        "desob": "1",
+        "descricao": "Deixar de deslocar com antecedência, o veículo para a faixa mais a esquerda dentro da respectiva mão de direção, quando for manobrar para esse lado ."
+    },
+    {
+        "id": 236,
+        "artigo": "197",
+        "codigo": "5851",
+        "desob": "2",
+        "descricao": "Deixar de deslocar com antecedência, o veículo para a faixa mais a direita dentro da respectiva mão de direção, quando for manobrar para esse lado."
+    },
+    {
+        "id": 237,
+        "artigo": "198",
+        "codigo": "5860",
+        "desob": "0",
+        "descricao": "Deixar de dar passagem pela esquerda quando solicitado."
+    },
+    {
+        "id": 238,
+        "artigo": "199",
+        "codigo": "5878",
+        "desob": "0",
+        "descricao": "Ultrapassar pela direita salvo quando o veículo da frente estiver colocado na faixa apropriada e der sinal de que vai entrar a esquerda ."
+    },
+    {
+        "id": 239,
+        "artigo": "200",
+        "codigo": "5886",
+        "desob": "0",
+        "descricao": "Ultrapassar pela direita, veículo de transporte coletivo ou de escolares, parado para embarque ou desembarque de passageiros salvo quando houver refúgio para o pedestre."
+    },
+    {
+        "id": 240,
+        "artigo": "201",
+        "codigo": "5894",
+        "desob": "0",
+        "descricao": "Deixar de guardar a distância lateral de um metro e cinqüenta centímetros, ao passar ou ultrapassar bicicleta ."
+    },
+    {
+        "id": 241,
+        "artigo": "202 I",
+        "codigo": "5908",
+        "desob": "0",
+        "descricao": "Ultrapassar outro veículo pelo acostamento."
+    },
+    {
+        "id": 242,
+        "artigo": "202 II",
+        "codigo": "5916",
+        "desob": "0",
+        "descricao": "Ultrapassar outro veículo em interseções e passagens de nível ."
+    },
+    {
+        "id": 243,
+        "artigo": "202 II",
+        "codigo": "5916",
+        "desob": "1",
+        "descricao": "Ultrapassar outro veículo em interseção ."
+    },
+    {
+        "id": 244,
+        "artigo": "202 II",
+        "codigo": "5916",
+        "desob": "2",
+        "descricao": "Ultrapassar outro veículo em passagem de nível."
+    },
+    {
+        "id": 245,
+        "artigo": "203 I",
+        "codigo": "5924",
+        "desob": "0",
+        "descricao": "Ultrapassar pela contramão outro veículo nas curvas, aclives e declives sem visibilidade suficiente ."
+    },
+    {
+        "id": 246,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "7",
+        "descricao": "Executar operação de retorno passando por cima de faixas de pedestres ."
+    },
+    {
+        "id": 247,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "8",
+        "descricao": "Executar operação de retorno passando por cima de faixas de veículos não motorizados."
+    },
+    {
+        "id": 248,
+        "artigo": "203 I",
+        "codigo": "5924",
+        "desob": "1",
+        "descricao": "Ultrapassar pela contramão outro veículo nas curvas sem visibilidade suficiente ."
+    },
+    {
+        "id": 249,
+        "artigo": "203 I",
+        "codigo": "5924",
+        "desob": "2",
+        "descricao": "Ultrapassar pela contramão outro veículo nos aclives sem visibilidade suficiente."
+    },
+    {
+        "id": 250,
+        "artigo": "203 I",
+        "codigo": "5924",
+        "desob": "3",
+        "descricao": "Ultrapassar pela contramão outro veículo nos declives sem visibilidade suficiente ."
+    },
+    {
+        "id": 251,
+        "artigo": "203 II",
+        "codigo": "5932",
+        "desob": "0",
+        "descricao": "Ultrapassar pela contramão outro veículo nas faixas de pedestre ."
+    },
+    {
+        "id": 252,
+        "artigo": "203 III",
+        "codigo": "5940",
+        "desob": "0",
+        "descricao": "Ultrapassar pela contramão outro veículo nas pontes, viadutos e túneis."
+    },
+    {
+        "id": 253,
+        "artigo": "203 III",
+        "codigo": "5940",
+        "desob": "1",
+        "descricao": "Ultrapassar pela contra mão outro veículo nas pontes."
+    },
+    {
+        "id": 254,
+        "artigo": "203 III",
+        "codigo": "5940",
+        "desob": "2",
+        "descricao": "Ultrapassar pela contra mão outro veículo nos viadutos."
+    },
+    {
+        "id": 255,
+        "artigo": "203 III",
+        "codigo": "5940",
+        "desob": "3",
+        "descricao": "Ultrapassar pela contra mão outro veículo nos túneis."
+    },
+    {
+        "id": 256,
+        "artigo": "203 IV",
+        "codigo": "5959",
+        "desob": "0",
+        "descricao": "Ultrapassar pela contramão outro veículo parado em fila junto a sinais luminosos, porteiras, cancelas, cruzamentos ou qualquer outro impedimento a livre circulação ."
+    },
+    {
+        "id": 257,
+        "artigo": "203 IV",
+        "codigo": "5959",
+        "desob": "1",
+        "descricao": "Ultrapassar pela contramão outro veículo parado em fila junto a sinais luminosos."
+    },
+    {
+        "id": 258,
+        "artigo": "203 IV",
+        "codigo": "5959",
+        "desob": "2",
+        "descricao": "Ultrapassar pela contramão outro veículo parado em fila junto a porteiras ."
+    },
+    {
+        "id": 259,
+        "artigo": "203 IV",
+        "codigo": "5959",
+        "desob": "3",
+        "descricao": "Ultrapassar pela contramão veículoparado em fila junto a cruzamento ."
+    },
+    {
+        "id": 260,
+        "artigo": "203 IV",
+        "codigo": "5959",
+        "desob": "4",
+        "descricao": "Ultrapassar pela contramão veíc parado em fila junto qq impedimento à circulação."
+    },
+    {
+        "id": 261,
+        "artigo": "203 IV",
+        "codigo": "5959",
+        "desob": "5",
+        "descricao": "Ultrapassar pela contramão outro veículo parado em fila junto a qualquer outro impedimento à livre circulação ."
+    },
+    {
+        "id": 262,
+        "artigo": "203 V",
+        "codigo": "5967",
+        "desob": "0",
+        "descricao": "Ultrapassar pela contramão linha de divisão de fluxos opostos, contínua amarela ."
+    },
+    {
+        "id": 263,
+        "artigo": "204",
+        "codigo": "5975",
+        "desob": "0",
+        "descricao": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de cruzarpista ou entrar a esquerda, onde não houver local apropriado para operação de retorno ."
+    },
+    {
+        "id": 264,
+        "artigo": "204",
+        "codigo": "5975",
+        "desob": "1",
+        "descricao": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de cruzar a pista, onde não houver local apropriado para operação de retorno ."
+    },
+    {
+        "id": 265,
+        "artigo": "204",
+        "codigo": "5975",
+        "desob": "2",
+        "descricao": "Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de entrar na pista, onde não houver local apropriado para operação de retorno."
+    },
+    {
+        "id": 266,
+        "artigo": "205",
+        "codigo": "5983",
+        "desob": "0",
+        "descricao": "Ultrapassar veículo em movimento que integre cortejo, préstito, desfile e formações militares, salvo com autorização da Autoridade de Trânsito ou seus Agentes."
+    },
+    {
+        "id": 267,
+        "artigo": "213 I",
+        "codigo": "6106",
+        "desob": "1",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como préstitos ."
+    },
+    {
+        "id": 268,
+        "artigo": "213 I",
+        "codigo": "6106",
+        "desob": "2",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como passeatas ."
+    },
+    {
+        "id": 269,
+        "artigo": "213 I",
+        "codigo": "6106",
+        "desob": "3",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como desfiles e outros ."
+    },
+    {
+        "id": 270,
+        "artigo": "206 I",
+        "codigo": "5991",
+        "desob": "0",
+        "descricao": "Executar operação de retorno em locais proibidos pela sinalização ."
+    },
+    {
+        "id": 271,
+        "artigo": "213 II",
+        "codigo": "6114",
+        "desob": "1",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de veículos, como cortejos ."
+    },
+    {
+        "id": 272,
+        "artigo": "213 II",
+        "codigo": "6114",
+        "desob": "2",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de veículos, como formações militares e outros ."
+    },
+    {
+        "id": 273,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "0",
+        "descricao": "Executar operação de retorno nas curvas, aclives, declives, pontes, viadutos e túneis ."
+    },
+    {
+        "id": 274,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "1",
+        "descricao": "Executar operação de retorno nas curvas ."
+    },
+    {
+        "id": 275,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "2",
+        "descricao": "Executar operação de retorno nos aclives."
+    },
+    {
+        "id": 276,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "3",
+        "descricao": "Executar operação de retorno nas pontes ."
+    },
+    {
+        "id": 277,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "4",
+        "descricao": "Executar operação de retorno nos viadutos ."
+    },
+    {
+        "id": 278,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "5",
+        "descricao": "Executar operação de retorno nos túneis ."
+    },
+    {
+        "id": 279,
+        "artigo": "206 II",
+        "codigo": "6009",
+        "desob": "6",
+        "descricao": "Executar operação de retorno nos túneis ."
+    },
+    {
+        "id": 280,
+        "artigo": "206III",
+        "codigo": "6017",
+        "desob": "0",
+        "descricao": "Executar operação de retorno passando por cima de calçada, passeio, ilhas, ajardinamentos ou canteiros de divisores de pista de rolamento, refúgios e faixas de pedestres e nas de veículos não motorizados ."
+    },
+    {
+        "id": 281,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "1",
+        "descricao": "Executar operação de retorno passando por cima de calçada, passeio."
+    },
+    {
+        "id": 282,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "2",
+        "descricao": "Executar operação de retorno passando por cima deilhas, refúgios."
+    },
+    {
+        "id": 283,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "3",
+        "descricao": "Executar operação de retorno passando por cima de ajardinamento ."
+    },
+    {
+        "id": 284,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "4",
+        "descricao": "Executar operação de retorno passando por cima de canteiros divisores de pista de rolamento ."
+    },
+    {
+        "id": 285,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "5",
+        "descricao": "Executar operação de retorno passando por cima de faixas de pedestres ."
+    },
+    {
+        "id": 286,
+        "artigo": "206 III",
+        "codigo": "6017",
+        "desob": "6",
+        "descricao": "Executar operação de retorno passando por cima de faixasde veículos não motorizados ."
+    },
+    {
+        "id": 287,
+        "artigo": "206 IV",
+        "codigo": "6025",
+        "desob": "0",
+        "descricao": "Executar operação de retorno nas interseções, entrando na contramão de direção da via transversal ."
+    },
+    {
+        "id": 288,
+        "artigo": "206 V",
+        "codigo": "6033",
+        "desob": "0",
+        "descricao": "Executar operação de retorno com prejuízo da livre circulação ou da segurança ainda que em locais permitidos."
+    },
+    {
+        "id": 289,
+        "artigo": "206 V",
+        "codigo": "6033",
+        "desob": "1",
+        "descricao": "Executar operação de retorno com prejuízo da livre circulação, ainda que em locais permitidos ."
+    },
+    {
+        "id": 290,
+        "artigo": "220 I",
+        "codigo": "6262",
+        "desob": "1",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de passeatas ."
+    },
+    {
+        "id": 291,
+        "artigo": "206 V",
+        "codigo": "6033",
+        "desob": "2",
+        "descricao": "Executar operação de retorno com prejuízo da segurança, ainda que em locais permitidos."
+    },
+    {
+        "id": 292,
+        "artigo": "207",
+        "codigo": "6041",
+        "desob": "0",
+        "descricao": "Executar operação de conversão a direita ou a esquerda em locais proibidos pela sinalização ."
+    },
+    {
+        "id": 293,
+        "artigo": "207",
+        "codigo": "6041",
+        "desob": "1",
+        "descricao": "Executar operação de conversão a direita em locais proibidos pela sinalização."
+    },
+    {
+        "id": 294,
+        "artigo": "207",
+        "codigo": "6041",
+        "desob": "2",
+        "descricao": "Executar operação de conversão a esquerda em locais proibidos pela sinalização ."
+    },
+    {
+        "id": 295,
+        "artigo": "208",
+        "codigo": "6050",
+        "desob": "0",
+        "descricao": "Avançar o sinal vermelho do semáforo ou da parada obrigatória ."
+    },
+    {
+        "id": 296,
+        "artigo": "208",
+        "codigo": "6050",
+        "desob": "1",
+        "descricao": "Avançar o sinal vermelho do semáforo, exc onde houver sinaliz que perm livre conv à direita."
+    },
+    {
+        "id": 297,
+        "artigo": "208",
+        "codigo": "6050",
+        "desob": "2",
+        "descricao": "Avançar sinal de parada obrigatória ."
+    },
+    {
+        "id": 298,
+        "artigo": "208",
+        "codigo": "6050",
+        "desob": "3",
+        "descricao": "Avançar o sinal vermelho do semáforo, exc houver sinaliz perm livre conv à direita -fisc eletrônica."
+    },
+    {
+        "id": 299,
+        "artigo": "209",
+        "codigo": "6068",
+        "desob": "0",
+        "descricao": "Transpor , sem autorização bloqueio viário com ou sem sinalização ou dispositivos auxiliares, deixar de adentrar às áreas destinadas a pesagem de veículos ou evadir-se para não efetuar o pagamento do pedágio ."
+    },
+    {
+        "id": 300,
+        "artigo": "209",
+        "codigo": "6068",
+        "desob": "1",
+        "descricao": "Transpor, sem autorização, bloqueio viário com ou sem sinalização ou dispositivos auxiliares."
+    },
+    {
+        "id": 301,
+        "artigo": "209",
+        "codigo": "6068",
+        "desob": "2",
+        "descricao": "Deixar de adentrar às áreas destinadas à pesagem de veículos."
+    },
+    {
+        "id": 302,
+        "artigo": "220 I",
+        "codigo": "6262",
+        "desob": "2",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de aglomerações."
+    },
+    {
+        "id": 303,
+        "artigo": "220 I",
+        "codigo": "6262",
+        "desob": "3",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de cortejos."
+    },
+    {
+        "id": 304,
+        "artigo": "220 I",
+        "codigo": "6262",
+        "desob": "4",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de préstitos ."
+    },
+    {
+        "id": 305,
+        "artigo": "220 I",
+        "codigo": "6262",
+        "desob": "5",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de desfiles."
+    },
+    {
+        "id": 306,
+        "artigo": "209",
+        "codigo": "6068",
+        "desob": "3",
+        "descricao": "Evadir-se para não efetuar o pagamento do pedágio ."
+    },
+    {
+        "id": 307,
+        "artigo": "210",
+        "codigo": "6076",
+        "desob": "0",
+        "descricao": "Transpor sem autorização bloqueio viário policial ."
+    },
+    {
+        "id": 308,
+        "artigo": "211",
+        "codigo": "6084",
+        "desob": "0",
+        "descricao": "Ultrapassar veículos em fila, parados em razão de sinal luminoso, cancela, bloqueio viário parcial ou qualquer outro obstáculo, com exceção dos veículos não motorizados."
+    },
+    {
+        "id": 309,
+        "artigo": "211",
+        "codigo": "6084",
+        "desob": "1",
+        "descricao": "Ultrapassar veículos em fila, parados em razão de sinal luminoso, com exceção dos veículos não motorizados."
+    },
+    {
+        "id": 310,
+        "artigo": "211",
+        "codigo": "6084",
+        "desob": "2",
+        "descricao": "Ultrapassar veículos em fila, parados em razão de cancela, com exceção dos veículos não motorizados ."
+    },
+    {
+        "id": 311,
+        "artigo": "211",
+        "codigo": "6084",
+        "desob": "3",
+        "descricao": "Ultrapassar veículos em fila, parados em razão de bloqueio viário parcial, com exceção dos veículos não motorizados ."
+    },
+    {
+        "id": 312,
+        "artigo": "211",
+        "codigo": "6084",
+        "desob": "4",
+        "descricao": "Ultrapassar veículos em fila, parados em razão de qualquer outro obstáculo, com exceção dos veículos não motorizados."
+    },
+    {
+        "id": 313,
+        "artigo": "212",
+        "codigo": "6092",
+        "desob": "0",
+        "descricao": "Deixar de parar o veículo antes de transpor linha férrea."
+    },
+    {
+        "id": 314,
+        "artigo": "213 I",
+        "codigo": "6106",
+        "desob": "0",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de pessoas, como préstitos, passeatas, desfiles e outros ."
+    },
+    {
+        "id": 315,
+        "artigo": "220 VIII",
+        "codigo": "6335",
+        "desob": "1",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob chuva ."
+    },
+    {
+        "id": 316,
+        "artigo": "220 VIII",
+        "codigo": "6335",
+        "desob": "2",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob neblina ."
+    },
+    {
+        "id": 317,
+        "artigo": "220 VIII",
+        "codigo": "6335",
+        "desob": "3",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob cerração."
+    },
+    {
+        "id": 318,
+        "artigo": "220 VIII",
+        "codigo": "6335",
+        "desob": "4",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob ventos fortes ."
+    },
+    {
+        "id": 319,
+        "artigo": "213 II",
+        "codigo": "6114",
+        "desob": "0",
+        "descricao": "Deixar de parar o veículo sempre que a respectiva marcha for interceptada por agrupamentos de veículos, como cortejos, formações militares e outros ."
+    },
+    {
+        "id": 320,
+        "artigo": "214 I",
+        "codigo": "6122",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que se encontre na faixa a ele destinada."
+    },
+    {
+        "id": 321,
+        "artigo": "214 II",
+        "codigo": "6130",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que não haja concluído a travessia, mesmo que ocorra sinal verde para o veículo ."
+    },
+    {
+        "id": 322,
+        "artigo": "214 III",
+        "codigo": "6149",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado portadores de deficiência física, crianças, idosos e a gestantes."
+    },
+    {
+        "id": 323,
+        "artigo": "214 IV",
+        "codigo": "6157",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado, quando não houver iniciado a travessia, mesmo que não sinalização a ele destinada."
+    },
+    {
+        "id": 324,
+        "artigo": "214 V",
+        "codigo": "6165",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que esteja atravessando a via transversal para onde se dirige o veículo ."
+    },
+    {
+        "id": 325,
+        "artigo": "215 I",
+        "codigo": "6173",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que estiver circulando por rodovia ou rotatória ou a veículo que vier pela direita."
+    },
+    {
+        "id": 326,
+        "artigo": "215 I",
+        "codigo": "6173",
+        "desob": "1",
+        "descricao": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que estiver circulando por rodovia."
+    },
+    {
+        "id": 327,
+        "artigo": "215 I",
+        "codigo": "6173",
+        "desob": "2",
+        "descricao": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que estiver circulando por rotatória."
+    },
+    {
+        "id": 328,
+        "artigo": "215 I",
+        "codigo": "6173",
+        "desob": "3",
+        "descricao": "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que vier da direita ."
+    },
+    {
+        "id": 329,
+        "artigo": "215 II",
+        "codigo": "6181",
+        "desob": "0",
+        "descricao": "Deixar de dar preferência de passagem, nas interseções com sinalização de regulamentação de Dê a Preferência."
+    },
+    {
+        "id": 330,
+        "artigo": "216",
+        "codigo": "6190",
+        "desob": "0",
+        "descricao": "Entrar ou sair de áreas lindeiras sem estar adequadamente posicionado para o ingresso na via e sem as precauções com a segurança de pedestres e de outros veículos."
+    },
+    {
+        "id": 331,
+        "artigo": "221§ único",
+        "codigo": "6416",
+        "desob": "0",
+        "descricao": "Confeccionar, distribuir ou colocar, em veículo próprio ou de terceiros, placas de identificação não autorizadas pela regulamentação do CONTRAN ."
+    },
+    {
+        "id": 332,
+        "artigo": "217",
+        "codigo": "6203",
+        "desob": "0",
+        "descricao": "Entrar ou sair de fila de veículos estacionados sem dar preferência de passagem a pedestres e a outros veículos ."
+    },
+    {
+        "id": 333,
+        "artigo": "219",
+        "codigo": "6254",
+        "desob": "0",
+        "descricao": "Transitar com veículo em velocidade inferior à metade da velocidade máxima estabelecida para via, retardando ou obstruindo o trânsito, a menos que as condições de trafego e meteorológicas não o permitam, salvo se estiver na faixa da direita."
+    },
+    {
+        "id": 334,
+        "artigo": "220 I",
+        "codigo": "6262",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito, quando se aproximar de passeatas, aglomerações, cortejos, préstitos e desfiles ."
+    },
+    {
+        "id": 335,
+        "artigo": "220 II",
+        "codigo": "6270",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nos locais onde o trânsito esteja sendo controlado pelo Agente da Autoridade de Trânsito, mediante sinais sonoros ou gestos ."
+    },
+    {
+        "id": 336,
+        "artigo": "220 III",
+        "codigo": "6289",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se da guia da calçada (meio-fio) ou acostamento."
+    },
+    {
+        "id": 337,
+        "artigo": "225 I",
+        "codigo": "6459",
+        "desob": "3",
+        "descricao": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas, quando tiver de permanecer no acostamento."
+    },
+    {
+        "id": 338,
+        "artigo": "225 I",
+        "codigo": "6459",
+        "desob": "4",
+        "descricao": "Omitir-se a providências necessárias para tornar visível o local, quando tiver de permanecer no acostamento ."
+    },
+    {
+        "id": 339,
+        "artigo": "225 II",
+        "codigo": "6467",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas, quando a carga for derramada sobre a via e não puder ser retirada imediatamente."
+    },
+    {
+        "id": 340,
+        "artigo": "225 II",
+        "codigo": "6467",
+        "desob": "2",
+        "descricao": "Omitir-se a providências necessárias para tornar visível o local, quando a carga for derramada sobre a via e não puder ser retirada imediatamente ."
+    },
+    {
+        "id": 341,
+        "artigo": "220 III",
+        "codigo": "6289",
+        "desob": "1",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se da guia da calçada (meio-fio) ."
+    },
+    {
+        "id": 342,
+        "artigo": "220 III",
+        "codigo": "6289",
+        "desob": "2",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se do acostamento."
+    },
+    {
+        "id": 343,
+        "artigo": "227 I",
+        "codigo": "6483",
+        "desob": "1",
+        "descricao": "Usar buzina em situação que não a de simples toque breve como advertência ao pedestre ."
+    },
+    {
+        "id": 344,
+        "artigo": "227 I",
+        "codigo": "6483",
+        "desob": "2",
+        "descricao": "Usar buzina em situação que não a de simples toque breve como advertência a condutores de outros veículos ."
+    },
+    {
+        "id": 345,
+        "artigo": "220 IV",
+        "codigo": "6297",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-se de ou passar por interseção não sinalizada."
+    },
+    {
+        "id": 346,
+        "artigo": "220 V",
+        "codigo": "6300",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas vias rurais cuja faixa de domínio não esteja cercada."
+    },
+    {
+        "id": 347,
+        "artigo": "220 VI",
+        "codigo": "6319",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nos trechos em curvas de pequeno raio ."
+    },
+    {
+        "id": 348,
+        "artigo": "220 VII",
+        "codigo": "6327",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito ao aproximar-sede locais sinalizados com advertência de obras ou trabalhadores na pista ."
+    },
+    {
+        "id": 349,
+        "artigo": "220 VIII",
+        "codigo": "6335",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito sob chuva, neblina cerração ou ventos fortes."
+    },
+    {
+        "id": 350,
+        "artigo": "220 IX",
+        "codigo": "6343",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando houver má visibilidade ."
+    },
+    {
+        "id": 351,
+        "artigo": "220 X",
+        "codigo": "6351",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando o pavimento se apresentar escorregadio, defeituoso ou avariado ."
+    },
+    {
+        "id": 352,
+        "artigo": "220 X",
+        "codigo": "6351",
+        "desob": "1",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando o pavimento se apresentar escorregadio ."
+    },
+    {
+        "id": 353,
+        "artigo": "220 X",
+        "codigo": "6351",
+        "desob": "2",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito quando o pavimento se apresentar defeituoso ou avariado ."
+    },
+    {
+        "id": 354,
+        "artigo": "220 XI",
+        "codigo": "6360",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito à aproximação de animais na pista ."
+    },
+    {
+        "id": 355,
+        "artigo": "220 XII",
+        "codigo": "6378",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito em declive."
+    },
+    {
+        "id": 356,
+        "artigo": "220 XIII",
+        "codigo": "6386",
+        "desob": "0",
+        "descricao": "Deixar de reduzir veloc de forma compatível c/ segurança ao ultrapassar ciclista."
+    },
+    {
+        "id": 357,
+        "artigo": "220 XIV",
+        "codigo": "6394",
+        "desob": "0",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de escola, hospitais, estações de embarque e desembarque de passageiros ou onde haja intensa movimentação de pedestres ."
+    },
+    {
+        "id": 358,
+        "artigo": "220 XIV",
+        "codigo": "6394",
+        "desob": "1",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de escola."
+    },
+    {
+        "id": 359,
+        "artigo": "220 XIV",
+        "codigo": "6394",
+        "desob": "2",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de hospitais ."
+    },
+    {
+        "id": 360,
+        "artigo": "220 XIV",
+        "codigo": "6394",
+        "desob": "3",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de estações de embarque e desembarque de passageiros ."
+    },
+    {
+        "id": 361,
+        "artigo": "220 XIV",
+        "codigo": "6394",
+        "desob": "4",
+        "descricao": "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito onde haja intensa movimentação de pedestres ."
+    },
+    {
+        "id": 362,
+        "artigo": "221",
+        "codigo": "6408",
+        "desob": "0",
+        "descricao": "Portar no veículo, placas de identificação em desacordo com as especificações e modelos estabelecidos pelo CONTRAN."
+    },
+    {
+        "id": 363,
+        "artigo": "221§ único",
+        "codigo": "6416",
+        "desob": "1",
+        "descricao": "Colocar, em veículo próprio, placas de identificação não autorizadas pela regulamentação do CONTRAN ."
+    },
+    {
+        "id": 364,
+        "artigo": "221§ único",
+        "codigo": "6416",
+        "desob": "2",
+        "descricao": "Colocar, em veículo de terceiros, placas de identificação não autorizadas pela regulamentação do CONTRAN."
+    },
+    {
+        "id": 365,
+        "artigo": "222",
+        "codigo": "6424",
+        "desob": "0",
+        "descricao": "Deixar de manter ligado, nas situações de atendimento de emergência, o sistema de iluminação vermelha intermitente dos veículos de Polícia, de socorro de incêndio e salvamento, de fiscalização de trânsito e das ambulâncias, ainda que parados ."
+    },
+    {
+        "id": 366,
+        "artigo": "223",
+        "codigo": "6432",
+        "desob": "0",
+        "descricao": "Transitar com farol desregulado ou com facho de luz alta de forma a perturbara visão de outro condutor."
+    },
+    {
+        "id": 367,
+        "artigo": "223",
+        "codigo": "6432",
+        "desob": "1",
+        "descricao": "Transitar com farol desregulado de forma a perturbara visão de outro condutor ."
+    },
+    {
+        "id": 368,
+        "artigo": "223",
+        "codigo": "6432",
+        "desob": "2",
+        "descricao": "Transitar com facho de luz alta de forma a perturbar a visão de outro condutor."
+    },
+    {
+        "id": 369,
+        "artigo": "224",
+        "codigo": "6440",
+        "desob": "0",
+        "descricao": "Fazer uso do facho de luz alta dos faróis em vias providas de iluminação pública."
+    },
+    {
+        "id": 370,
+        "artigo": "225 I",
+        "codigo": "6459",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando tiver de remover o veículo da pista de rolamento ou permanecer no acostamento ."
+    },
+    {
+        "id": 371,
+        "artigo": "225 I",
+        "codigo": "6459",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando tiver de remover o veículo da pista de rolamento."
+    },
+    {
+        "id": 372,
+        "artigo": "230 XI",
+        "codigo": "6653",
+        "desob": "3",
+        "descricao": "Conduzir o veículo com o silenciador do motor de explosão, deficiente ou inoperante ."
+    },
+    {
+        "id": 373,
+        "artigo": "225 I",
+        "codigo": "6459",
+        "desob": "2",
+        "descricao": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando tiver depermanecer no acostamento ."
+    },
+    {
+        "id": 374,
+        "artigo": "230 XII",
+        "codigo": "6661",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com equipamento proibido ."
+    },
+    {
+        "id": 375,
+        "artigo": "230 XII",
+        "codigo": "6661",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com acessório proibido ."
+    },
+    {
+        "id": 376,
+        "artigo": "225 II",
+        "codigo": "6467",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar a via, de forma a prevenir os demais condutores e, à noite, não manter acesas as luzes externas ou omitir-se a providências necessárias para tornar visível o local, quando a carga for derramada sobre a via e não puder ser retirada imediatamente."
+    },
+    {
+        "id": 377,
+        "artigo": "226",
+        "codigo": "6475",
+        "desob": "0",
+        "descricao": "Deixar de retirar todo e qualquer objeto que tenha sido utilizado para sinalização temporária da via."
+    },
+    {
+        "id": 378,
+        "artigo": "227 I",
+        "codigo": "6483",
+        "desob": "0",
+        "descricao": "Usar buzina em situação que não a de simples toque breve como advertência ao pedestre ou a condutores de outros veículos."
+    },
+    {
+        "id": 379,
+        "artigo": "227 II",
+        "codigo": "6491",
+        "desob": "0",
+        "descricao": "Usar buzina prolongada e sucessivamente a qualquer pretexto ."
+    },
+    {
+        "id": 380,
+        "artigo": "227 III",
+        "codigo": "6505",
+        "desob": "0",
+        "descricao": "Usar buzina entre as vinte e duas e às seis horas ."
+    },
+    {
+        "id": 381,
+        "artigo": "227 IV",
+        "codigo": "6513",
+        "desob": "0",
+        "descricao": "Usar buzina em locais e horários proibidos pela sinalização ."
+    },
+    {
+        "id": 382,
+        "artigo": "227 V",
+        "codigo": "6521",
+        "desob": "0",
+        "descricao": "Usar buzina em desacordo com os padrões e freqüências estabelecidas pelo CONTRAN."
+    },
+    {
+        "id": 383,
+        "artigo": "228",
+        "codigo": "6530",
+        "desob": "0",
+        "descricao": "Usar no veículo equipamento com som em volume ou freqüência que não sejam autorizadas pelo CONTRAN."
+    },
+    {
+        "id": 384,
+        "artigo": "230 XVII",
+        "codigo": "6718",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com cortinas fechadas, não autorizadas pela legislação ."
+    },
+    {
+        "id": 385,
+        "artigo": "230 XVII",
+        "codigo": "6718",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com persianas fechadas, não autorizadas pela legislação."
+    },
+    {
+        "id": 386,
+        "artigo": "229",
+        "codigo": "6548",
+        "desob": "0",
+        "descricao": "Usar indevidamente no veículo aparelho de alarme ou que produza sons e ruído que perturbe o sossego público, em desacordo com normas fixadas pelo CONTRAN ."
+    },
+    {
+        "id": 387,
+        "artigo": "229",
+        "codigo": "6548",
+        "desob": "1",
+        "descricao": "Usar indevidamente no veículo aparelho de alarme que perturbe o sossego público, em desacordo com normas fixadas pelo CONTRAN ."
+    },
+    {
+        "id": 388,
+        "artigo": "229",
+        "codigo": "6548",
+        "desob": "2",
+        "descricao": "Usar indevidamente no veículo aparelho que produza sons e ruído que perturbe o sossego público, em desacordo com normas fixadas pelo CONTRAN."
+    },
+    {
+        "id": 389,
+        "artigo": "230 I",
+        "codigo": "6556",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com o lacre, a inscrição do chassi, o selo, a placa ou qualquer outro elemento de identificação de veículo violado ou falsificado."
+    },
+    {
+        "id": 390,
+        "artigo": "230 I",
+        "codigo": "6556",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com o lacre de identificação violado ou falsificado."
+    },
+    {
+        "id": 391,
+        "artigo": "230 I",
+        "codigo": "6556",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com a inscrição do chassi violado ou falsificado ."
+    },
+    {
+        "id": 392,
+        "artigo": "230 I",
+        "codigo": "6556",
+        "desob": "3",
+        "descricao": "Conduzir o veículo com o selo violado ou falsificado."
+    },
+    {
+        "id": 393,
+        "artigo": "230 I",
+        "codigo": "6556",
+        "desob": "4",
+        "descricao": "Conduzir o veículo com a placa violado ou falsificado ."
+    },
+    {
+        "id": 394,
+        "artigo": "230 I",
+        "codigo": "6556",
+        "desob": "5",
+        "descricao": "Conduzir o veículo com qualquer outro elemento de identificação do veículo violado ou falsificado ."
+    },
+    {
+        "id": 395,
+        "artigo": "230 II",
+        "codigo": "6564",
+        "desob": "0",
+        "descricao": "Conduzir o veículo transportando passageiros em compartimento de carga, salvo por motivo de força maior com permissão da autoridade competente e na forma estabelecida pelo CONTRAN ."
+    },
+    {
+        "id": 396,
+        "artigo": "230 III",
+        "codigo": "6572",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com dispositivo anti-radar ."
+    },
+    {
+        "id": 397,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "1",
+        "descricao": "Transitar com o veículo derramando sobre a via combustível que esteja utilizando."
+    },
+    {
+        "id": 398,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "2",
+        "descricao": "Transitar com o veículo lançando sobre a via combustível que esteja utilizando."
+    },
+    {
+        "id": 399,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "3",
+        "descricao": "Transitar com o veículo arrastando sobre a via combustível que esteja utilizando."
+    },
+    {
+        "id": 400,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "4",
+        "descricao": "Transitar com o veículo derramando sobre a via lubrificante que esteja utilizando ."
+    },
+    {
+        "id": 401,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "5",
+        "descricao": "Transitar com o veículo lançando sobre a via lubrificante que esteja utilizando ."
+    },
+    {
+        "id": 402,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "6",
+        "descricao": "Transitar com o veículo arrastando sobre a via lubrificante que esteja utilizando ."
+    },
+    {
+        "id": 403,
+        "artigo": "230 IV",
+        "codigo": "6580",
+        "desob": "0",
+        "descricao": "Conduzir o veículo sem qualquer uma das placas de identificação ."
+    },
+    {
+        "id": 404,
+        "artigo": "231 II c",
+        "codigo": "6807",
+        "desob": "1",
+        "descricao": "Transitar com o veículo derramando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "id": 405,
+        "artigo": "231 II c",
+        "codigo": "6807",
+        "desob": "2",
+        "descricao": "Transitar com o veículo lançando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "id": 406,
+        "artigo": "231 II c",
+        "codigo": "6807",
+        "desob": "3",
+        "descricao": "Transitar com o veículo arrastando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "id": 407,
+        "artigo": "230 V",
+        "codigo": "6599",
+        "desob": "0",
+        "descricao": "Conduzir o veículo que não esteja registrado e devidamente licenciado ."
+    },
+    {
+        "id": 408,
+        "artigo": "231 III",
+        "codigo": "6815",
+        "desob": "1",
+        "descricao": "Transitar com o veículo produzindo fumaça em níveis superiores aos fixados pelo CONTRAN ."
+    },
+    {
+        "id": 409,
+        "artigo": "231 III",
+        "codigo": "6815",
+        "desob": "2",
+        "descricao": "Transitar com o veículo produzindo gases em níveis superiores aos fixados pelo CONTRAN."
+    },
+    {
+        "id": 410,
+        "artigo": "231 III",
+        "codigo": "6815",
+        "desob": "3",
+        "descricao": "Transitar com o veículo produzindo partículas em níveis superiores aos fixados pelo CONTRAN ."
+    },
+    {
+        "id": 411,
+        "artigo": "231 IV",
+        "codigo": "6823",
+        "desob": "0",
+        "descricao": "Transitar com o veículo com suas dimensões ou de sua carga superiores aos limites estabelecidos legalmente ou pela sinalização, sem autorização ."
+    },
+    {
+        "id": 412,
+        "artigo": "230 VI",
+        "codigo": "6602",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com qualquer uma das placas de identificação, sem condições de legibilidade e visibilidade ."
+    },
+    {
+        "id": 413,
+        "artigo": "230 VII",
+        "codigo": "6610",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com cor ou característica alterada ."
+    },
+    {
+        "id": 414,
+        "artigo": "230 VII",
+        "codigo": "6610",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com a cor alterada ."
+    },
+    {
+        "id": 415,
+        "artigo": "230 VII",
+        "codigo": "6610",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com a característica alterada."
+    },
+    {
+        "id": 416,
+        "artigo": "230 VIII",
+        "codigo": "6629",
+        "desob": "0",
+        "descricao": "Conduzir o veículo, sem ter sido submetido a inspeção de segurança veicular, quando obrigatória ."
+    },
+    {
+        "id": 417,
+        "artigo": "230 IX",
+        "codigo": "6637",
+        "desob": "0",
+        "descricao": "Conduzir o veículo sem equipamento obrigatório ou estando este ineficiente ou inoperante."
+    },
+    {
+        "id": 418,
+        "artigo": "230 IX",
+        "codigo": "6637",
+        "desob": "1",
+        "descricao": "Conduzir o veículo sem equipamento obrigatório."
+    },
+    {
+        "id": 419,
+        "artigo": "230 IX",
+        "codigo": "6637",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com equipamento obrigatório ineficiente ou inoperante."
+    },
+    {
+        "id": 420,
+        "artigo": "230 X",
+        "codigo": "6645",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com o equipamento obrigatório em desacordo com o estabelecido pelo CONTRAN ."
+    },
+    {
+        "id": 421,
+        "artigo": "230 XI",
+        "codigo": "6653",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com descarga livre ou silenciador de motor de explosão defeituoso, deficiente ou inoperante."
+    },
+    {
+        "id": 422,
+        "artigo": "230 XI",
+        "codigo": "6653",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com descarga livre ."
+    },
+    {
+        "id": 423,
+        "artigo": "230 XI",
+        "codigo": "6653",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com o silenciador do motor de explosão defeituoso, deficiente ou inoperante."
+    },
+    {
+        "id": 424,
+        "artigo": "230 XII",
+        "codigo": "6661",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com equipamento ou acessório proibido."
+    },
+    {
+        "id": 425,
+        "artigo": "230 XIII",
+        "codigo": "6670",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com o equipamento do sistema de iluminação e de sinalização alterados."
+    },
+    {
+        "id": 426,
+        "artigo": "230 XIV",
+        "codigo": "6688",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com registrador instantâneo de velocidadee tempo viciado ou defeituoso, quando houver exigência desse aparelho ."
+    },
+    {
+        "id": 427,
+        "artigo": "230 XV",
+        "codigo": "6696",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário afixados ou pintados no pára-brisa e em toda a extensão da parte traseira do veículo, excetuadas as hipóteses previstas no CTB ."
+    },
+    {
+        "id": 428,
+        "artigo": "230 XV",
+        "codigo": "6696",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário afixados no pára-brisa e em toda a extensão da parte traseira do veículo, excetuadas as hipóteses previstas no CTB ."
+    },
+    {
+        "id": 429,
+        "artigo": "230 XV",
+        "codigo": "6696",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário pintados no pára-brisa e em toda a extensão da parte traseira do veículo, excetuadas as hipóteses previstas no CTB ."
+    },
+    {
+        "id": 430,
+        "artigo": "234",
+        "codigo": "6939",
+        "desob": "0",
+        "descricao": "Falsificar ou adulterar documento de habilitação e de identificação do veículo."
+    },
+    {
+        "id": 431,
+        "artigo": "230 XVI",
+        "codigo": "6700",
+        "desob": "0",
+        "descricao": "Conduzir o veiculo com vidros total ou parcialmente cobertos por películas refletivas ou não, painéis decorativos ou pinturas ."
+    },
+    {
+        "id": 432,
+        "artigo": "230 XVI",
+        "codigo": "6700",
+        "desob": "1",
+        "descricao": "Conduzir o veiculo com vidros total ou parcialmentecobertos por películas refletivas ou não ."
+    },
+    {
+        "id": 433,
+        "artigo": "230 XVI",
+        "codigo": "6700",
+        "desob": "2",
+        "descricao": "Conduzir o veiculo com vidrostotalouparcialmente cobertos porpainéis decorativos ou pinturas."
+    },
+    {
+        "id": 434,
+        "artigo": "230 XVII",
+        "codigo": "6718",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com cortinas ou persianas fechadas, não autorizadas pela legislação."
+    },
+    {
+        "id": 435,
+        "artigo": "230 XVIII",
+        "codigo": "6726",
+        "desob": "0",
+        "descricao": "Conduzir o veículo em mau estado de conservação, comprometendo a segurança ou reprovado na avaliação de segurança e de emissão de poluentes e ruído ."
+    },
+    {
+        "id": 436,
+        "artigo": "230 XVIII",
+        "codigo": "6726",
+        "desob": "1",
+        "descricao": "Conduzir o veículo em mau estado de conservação, comprometendo a segurança."
+    },
+    {
+        "id": 437,
+        "artigo": "230 XVIII",
+        "codigo": "6726",
+        "desob": "2",
+        "descricao": "Conduzir o veículo reprovado na avaliação de inspeção de segurança."
+    },
+    {
+        "id": 438,
+        "artigo": "230 XVIII",
+        "codigo": "6726",
+        "desob": "3",
+        "descricao": "Conduzir o veículo reprovado na avaliação deemissão de poluentes e ruídos ."
+    },
+    {
+        "id": 439,
+        "artigo": "230 XIX",
+        "codigo": "6734",
+        "desob": "0",
+        "descricao": "Conduzir o veículo sem acionar o limpador de pára-brisa sob chuva ."
+    },
+    {
+        "id": 440,
+        "artigo": "230 XX",
+        "codigo": "6742",
+        "desob": "0",
+        "descricao": "Conduzir o veículo sem portar a autorização para condução de escolares."
+    },
+    {
+        "id": 441,
+        "artigo": "230 XXI",
+        "codigo": "6750",
+        "desob": "0",
+        "descricao": "Conduzir o veículo de carga com falta de inscrição da tara e demais inscrições previstas no CTB ."
+    },
+    {
+        "id": 442,
+        "artigo": "230 XXII",
+        "codigo": "6769",
+        "desob": "0",
+        "descricao": "Conduzir o veículo com defeito no sistema de iluminação de sinalização ou com lâmpadas queimadas."
+    },
+    {
+        "id": 443,
+        "artigo": "230 XXII",
+        "codigo": "6769",
+        "desob": "1",
+        "descricao": "Conduzir o veículo com defeito no sistema de iluminação ."
+    },
+    {
+        "id": 444,
+        "artigo": "230 XXII",
+        "codigo": "6769",
+        "desob": "2",
+        "descricao": "Conduzir o veículo com defeito no sistema de sinalização."
+    },
+    {
+        "id": 445,
+        "artigo": "240",
+        "codigo": "6998",
+        "desob": "1",
+        "descricao": "Deixar o responsável de promover a baixa de veículo irrecuperável ."
+    },
+    {
+        "id": 446,
+        "artigo": "240",
+        "codigo": "6998",
+        "desob": "2",
+        "descricao": "Deixar o responsável de promover a baixa de veículo definitivamente desmontado."
+    },
+    {
+        "id": 447,
+        "artigo": "241",
+        "codigo": "7005",
+        "desob": "0",
+        "descricao": "Deixar de atualizar o cadastro de registro do veículo ou de habilitação do Condutor ."
+    },
+    {
+        "id": 448,
+        "artigo": "230 XXII",
+        "codigo": "6769",
+        "desob": "3",
+        "descricao": "Conduzir o veículo comlâmpadas queimadas."
+    },
+    {
+        "id": 449,
+        "artigo": "231 I",
+        "codigo": "6777",
+        "desob": "0",
+        "descricao": "Transitar com o veículo danificando a via, suas instalações e equipamentos."
+    },
+    {
+        "id": 450,
+        "artigo": "242",
+        "codigo": "7013",
+        "desob": "0",
+        "descricao": "Fazer falsa declaração de domicilio para fins de registro, licenciamento ou habilitação ."
+    },
+    {
+        "id": 451,
+        "artigo": "231 II a",
+        "codigo": "6785",
+        "desob": "0",
+        "descricao": "Transitar com o veículo derramando, lançando ou arrastando sobre a via, carga que esteja transportando."
+    },
+    {
+        "id": 452,
+        "artigo": "231 II a",
+        "codigo": "6785",
+        "desob": "1",
+        "descricao": "Transitar com o veículo derramando sobre a via, carga que esteja transportando."
+    },
+    {
+        "id": 453,
+        "artigo": "231 II a",
+        "codigo": "6785",
+        "desob": "2",
+        "descricao": "Transitar com o veículo lançando sobre a via, carga que esteja transportando."
+    },
+    {
+        "id": 454,
+        "artigo": "231 II a",
+        "codigo": "6785",
+        "desob": "3",
+        "descricao": "Transitar com o veículo arrastando sobre a via, carga que esteja transportando."
+    },
+    {
+        "id": 455,
+        "artigo": "231 II b",
+        "codigo": "6793",
+        "desob": "0",
+        "descricao": "Transitar com o veículo derramando, lançando ou arrastando sobre a via combustível ou lubrificante que esteja utilizando."
+    },
+    {
+        "id": 456,
+        "artigo": "231 II c",
+        "codigo": "6807",
+        "desob": "0",
+        "descricao": "Transitar com o veículo derramando, lançando ou arrastando qualquer objeto que possa acarretar risco de acidente."
+    },
+    {
+        "id": 457,
+        "artigo": "231 III",
+        "codigo": "6815",
+        "desob": "0",
+        "descricao": "Transitar com o veículo produzindo fumaça, gases ou partículas em níveis superiores aos fixados pelo CONTRAN."
+    },
+    {
+        "id": 458,
+        "artigo": "231 IV",
+        "codigo": "6823",
+        "desob": "1",
+        "descricao": "Transitar com veículo e/ou carga com dimensões superiores ao limite legal sem autorização ."
+    },
+    {
+        "id": 459,
+        "artigo": "231 IV",
+        "codigo": "6823",
+        "desob": "2",
+        "descricao": "Transitar com veículo e/ou carga com dimensões superiores estabelecido pela sinalização sem autorização ."
+    },
+    {
+        "id": 460,
+        "artigo": "231 IV",
+        "codigo": "6823",
+        "desob": "3",
+        "descricao": "Transitar com o veículo com as dimensões de sua carga superioresaos limites estabelecidos legalmentesem autorização ."
+    },
+    {
+        "id": 461,
+        "artigo": "231 IV",
+        "codigo": "6823",
+        "desob": "4",
+        "descricao": "Transitar com o veículo com as dimensões de sua carga superiores à sinalização, sem autorização ."
+    },
+    {
+        "id": 462,
+        "artigo": "231 V",
+        "codigo": "6831",
+        "desob": "0",
+        "descricao": "Transitar com o veículo com excesso de peso, admitido percentual de tolerância quando aferido por equipamento ."
+    },
+    {
+        "id": 463,
+        "artigo": "231 VI",
+        "codigo": "6840",
+        "desob": "0",
+        "descricao": "Transitar com o veículo em desacordo com a autorização especial, expedida pela Autoridade competente, para transitar com dimensões excedentes ou quando a mesma estiver vencida ."
+    },
+    {
+        "id": 464,
+        "artigo": "231 VI",
+        "codigo": "6840",
+        "desob": "1",
+        "descricao": "Transitar com o veículo em desacordo com a autorização especial, expedida pela Autoridade competente, para transitar com dimensões excedentes ."
+    },
+    {
+        "id": 465,
+        "artigo": "231 VI",
+        "codigo": "6840",
+        "desob": "2",
+        "descricao": "Transitar com autorização vencida, expedida p/ veículo c/ dimensões excedentes."
+    },
+    {
+        "id": 466,
+        "artigo": "231 VII",
+        "codigo": "6858",
+        "desob": "0",
+        "descricao": "Transitar com o veículo com lotação excedente ."
+    },
+    {
+        "id": 467,
+        "artigo": "231 VIII",
+        "codigo": "6866",
+        "desob": "0",
+        "descricao": "Transitar com o veículo efetuando transporte remunerado de pessoas de pessoas ou bens, quando não for licenciado para esse fim, salvo casos de força maior ou com permissão da Autoridade competente."
+    },
+    {
+        "id": 468,
+        "artigo": "231 VIII",
+        "codigo": "6866",
+        "desob": "1",
+        "descricao": "Transitar com o veículo efetuando transporte remunerado de pessoas, quando não for licenciado para esse fim, salvo casos de força maior ou com permissão da Autoridade competente."
+    },
+    {
+        "id": 469,
+        "artigo": "231 VIII",
+        "codigo": "6866",
+        "desob": "2",
+        "descricao": "Transitar com o veículo efetuando transporte remunerado de bens, quando não for licenciado para esse fim, salvo casos de forca maior ou com permissão da Autoridade competente."
+    },
+    {
+        "id": 470,
+        "artigo": "231 IX",
+        "codigo": "6874",
+        "desob": "0",
+        "descricao": "Transitar com o veículo desligado ou desengrenado, em declive ."
+    },
+    {
+        "id": 471,
+        "artigo": "231 IX",
+        "codigo": "6874",
+        "desob": "1",
+        "descricao": "Transitar com o veículo desligado, em declive ."
+    },
+    {
+        "id": 472,
+        "artigo": "231 IX",
+        "codigo": "6874",
+        "desob": "2",
+        "descricao": "Transitar com o veículo desengrenado, em declive."
+    },
+    {
+        "id": 473,
+        "artigo": "231 X",
+        "codigo": "6882",
+        "desob": "0",
+        "descricao": "Transitar com o veículo excedendo a capacidade máxima de tração, em infração considerada média pelo CONTRAN ."
+    },
+    {
+        "id": 474,
+        "artigo": "231 X",
+        "codigo": "6890",
+        "desob": "0",
+        "descricao": "Transitar com o veículo excedendo a capacidade máxima de tração, em infração considerada grave pelo CONTRAN ."
+    },
+    {
+        "id": 475,
+        "artigo": "231 X",
+        "codigo": "6904",
+        "desob": "0",
+        "descricao": "Transitar com o veículo excedendo a capacidade máxima de tração, em infração considerada gravíssima pelo CONTRAN."
+    },
+    {
+        "id": 476,
+        "artigo": "232",
+        "codigo": "6912",
+        "desob": "0",
+        "descricao": "Conduzir o veículo sem os documentos de porte obrigatório ."
+    },
+    {
+        "id": 477,
+        "artigo": "233",
+        "codigo": "6920",
+        "desob": "0",
+        "descricao": "Deixar de efetuar o registro de veículo no prazo de trinta dias, junto ao Órgão Executivo de Trânsito ."
+    },
+    {
+        "id": 478,
+        "artigo": "234",
+        "codigo": "6939",
+        "desob": "1",
+        "descricao": "Falsificarou adulterar documento de habilitação ."
+    },
+    {
+        "id": 479,
+        "artigo": "234",
+        "codigo": "6939",
+        "desob": "2",
+        "descricao": "Adulterar documento de habilitação."
+    },
+    {
+        "id": 480,
+        "artigo": "235",
+        "codigo": "6947",
+        "desob": "0",
+        "descricao": "Conduzir pessoas, animais ou cargas nas partes externas do veículo salvo nos casos devidamente autorizados."
+    },
+    {
+        "id": 481,
+        "artigo": "235",
+        "codigo": "6947",
+        "desob": "1",
+        "descricao": "Conduzir pessoas nas partes externas do veículo salvo nos casos devidamente autorizados ."
+    },
+    {
+        "id": 482,
+        "artigo": "235",
+        "codigo": "6947",
+        "desob": "2",
+        "descricao": "Conduzir animais nas partes externas do veículo salvo nos casos devidamente autorizados ."
+    },
+    {
+        "id": 483,
+        "artigo": "235",
+        "codigo": "6947",
+        "desob": "3",
+        "descricao": "Conduzir carga nas partes externas do veículo salvo nos casos devidamente autorizados ."
+    },
+    {
+        "id": 484,
+        "artigo": "236",
+        "codigo": "6955",
+        "desob": "0",
+        "descricao": "Rebocar outro veículo com cabo flexível ou corda salvo em casos de emergência ."
+    },
+    {
+        "id": 485,
+        "artigo": "236",
+        "codigo": "6955",
+        "desob": "1",
+        "descricao": "Rebocar outro veículo com cabo flexível salvo em casos de emergência."
+    },
+    {
+        "id": 486,
+        "artigo": "236",
+        "codigo": "6955",
+        "desob": "2",
+        "descricao": "Rebocar outro veículo com corda salvo em casos de emergência."
+    },
+    {
+        "id": 487,
+        "artigo": "237",
+        "codigo": "6963",
+        "desob": "0",
+        "descricao": "Transitar com o veículo em desacordo com as especificações e com falta de inscrição e simbologia, necessárias a sua identificação quando exigidas pela legislação ."
+    },
+    {
+        "id": 488,
+        "artigo": "237",
+        "codigo": "6963",
+        "desob": "1",
+        "descricao": "Transitar com o veículo em desacordo com as especificações, necessárias a sua identificação quando exigidas pela legislação ."
+    },
+    {
+        "id": 489,
+        "artigo": "237",
+        "codigo": "6963",
+        "desob": "2",
+        "descricao": "Transitar com o veículo, com falta de inscrição necessária a sua identificação, quando exigida pela legislação."
+    },
+    {
+        "id": 490,
+        "artigo": "237",
+        "codigo": "6963",
+        "desob": "3",
+        "descricao": "Transitar com o veículo, com falta de simbologia necessária a sua identificação, quando exigida pela legislação ."
+    },
+    {
+        "id": 491,
+        "artigo": "238",
+        "codigo": "6971",
+        "desob": "0",
+        "descricao": "Recusar-se a entregar à Autoridade de Trânsito ou seus Agentes, mediante recibo, os documentos de habilitação, de registro, de licenciamento de veículo e outros exigidos por lei, para averiguação de sua autenticidade."
+    },
+    {
+        "id": 492,
+        "artigo": "239",
+        "codigo": "6980",
+        "desob": "0",
+        "descricao": "Retirar do local veículo legalmente retido para regularização, sem permissão da Autoridade competente ou seus Agentes ."
+    },
+    {
+        "id": 493,
+        "artigo": "240",
+        "codigo": "6998",
+        "desob": "0",
+        "descricao": "Deixar o responsável de promover a baixa de veículo irrecuperável ou definitivamente desmontado ."
+    },
+    {
+        "id": 494,
+        "artigo": "241",
+        "codigo": "7005",
+        "desob": "1",
+        "descricao": "Deixar de atualizar o cadastro de registro do veículo ."
+    },
+    {
+        "id": 495,
+        "artigo": "241",
+        "codigo": "7005",
+        "desob": "2",
+        "descricao": "Deixar de atualizar o cadastro de habilitação do condutor ."
+    },
+    {
+        "id": 496,
+        "artigo": "250 II",
+        "codigo": "7277",
+        "desob": "1",
+        "descricao": "Deixar de manter acesa pelo menos as luzes de posição sob chuva forte, quando o veículo estiver em movimento."
+    },
+    {
+        "id": 497,
+        "artigo": "250 II",
+        "codigo": "7277",
+        "desob": "2",
+        "descricao": "Deixar de manter acesa pelo menos as luzes de posição sob neblina, quando o veículo estiver em movimento."
+    },
+    {
+        "id": 498,
+        "artigo": "250 II",
+        "codigo": "7277",
+        "desob": "3",
+        "descricao": "Deixar de manter acesa pelo menos as luzes de posição sob cerração, quando o veículo estiver em movimento ."
+    },
+    {
+        "id": 499,
+        "artigo": "242",
+        "codigo": "7013",
+        "desob": "1",
+        "descricao": "Fazer falsa declaração de domicilio para fins de registro e licenciamento ."
+    },
+    {
+        "id": 500,
+        "artigo": "242",
+        "codigo": "7013",
+        "desob": "2",
+        "descricao": "Fazer falsa declaração de domicilio para fins de habilitação."
+    },
+    {
+        "id": 501,
+        "artigo": "243",
+        "codigo": "7021",
+        "desob": "0",
+        "descricao": "Deixar a empresa seguradora de comunicar ao Órgão Executivo de Trânsito competente a ocorrência de perda total do veículo e de lhe devolver as respectivas placas e documentos."
+    },
+    {
+        "id": 502,
+        "artigo": "244 I",
+        "codigo": "7030",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor sem usar capacete de segurança com viseira ou óculos de proteção e vestuário de acordo com as normas e especificações aprovadas pelo CONTRAN ."
+    },
+    {
+        "id": 503,
+        "artigo": "244 I",
+        "codigo": "7030",
+        "desob": "1",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor sem capacete de segurança."
+    },
+    {
+        "id": 504,
+        "artigo": "244 I",
+        "codigo": "7030",
+        "desob": "2",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor comcapacete de segurança sem viseira ou óculos de proteção ."
+    },
+    {
+        "id": 505,
+        "artigo": "244 I",
+        "codigo": "7030",
+        "desob": "3",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor sem vestuário de acordo com normas apr pelo Contran."
+    },
+    {
+        "id": 506,
+        "artigo": "244 II",
+        "codigo": "7048",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro, sem usar capacete de segurança com viseira ou óculos de proteção ou fora do assento suplementar colocado atrás do condutor ou com carro lateral."
+    },
+    {
+        "id": 507,
+        "artigo": "244 II",
+        "codigo": "7048",
+        "desob": "1",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro sem o capacete de segurança ."
+    },
+    {
+        "id": 508,
+        "artigo": "244 II",
+        "codigo": "7048",
+        "desob": "2",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro comcapacete de segurança sem viseira ou óculos de proteção."
+    },
+    {
+        "id": 509,
+        "artigo": "244 II",
+        "codigo": "7048",
+        "desob": "3",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro fora do assento suplementar colocado atrás do condutor ou em carro lateral."
+    },
+    {
+        "id": 510,
+        "artigo": "244 III",
+        "codigo": "7056",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta ciclomotor e ciclo fazendo malabarismo ou equilibrando-se apenas em apenas uma das rodas ."
+    },
+    {
+        "id": 511,
+        "artigo": "244 III",
+        "codigo": "7056",
+        "desob": "1",
+        "descricao": "Conduzir motocicleta, motoneta, ciclomotorfazendo malabarismo ou equilibrando-se apenas em uma roda ."
+    },
+    {
+        "id": 512,
+        "artigo": "244 III",
+        "codigo": "7056",
+        "desob": "2",
+        "descricao": "Conduzir ciclo fazendo malabarismo ou equilibrando-se apenas em uma roda."
+    },
+    {
+        "id": 513,
+        "artigo": "244 IV",
+        "codigo": "7064",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta e ciclomotor com os faróis apagados."
+    },
+    {
+        "id": 514,
+        "artigo": "244 V",
+        "codigo": "7072",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta e ciclomotor transportando criança menor de sete anos ou que não tenha, nas circunstâncias, condição de cuidar de sua própria segurança."
+    },
+    {
+        "id": 515,
+        "artigo": "244 VI",
+        "codigo": "7080",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor rebocando outro veículo."
+    },
+    {
+        "id": 516,
+        "artigo": "244 VII",
+        "codigo": "7099",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta, ciclomotor ou ciclo sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras."
+    },
+    {
+        "id": 517,
+        "artigo": "244 VII",
+        "codigo": "7099",
+        "desob": "1",
+        "descricao": "Conduzir motocicleta, motoneta, ciclomotorsem segurar o guidom comambas as mãos, salvo eventualmente para indicação de manobras ."
+    },
+    {
+        "id": 518,
+        "artigo": "244 § 1º",
+        "codigo": "7099",
+        "desob": "2",
+        "descricao": "Conduzir ciclo sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras ."
+    },
+    {
+        "id": 519,
+        "artigo": "244 VIII",
+        "codigo": "7102",
+        "desob": "0",
+        "descricao": "Conduzir motocicleta, motoneta, ciclomotor ou ciclo transportando carga incompatível com suas especificações."
+    },
+    {
+        "id": 520,
+        "artigo": "244 VIII",
+        "codigo": "7102",
+        "desob": "1",
+        "descricao": "Conduzir motocicleta, motoneta ou ciclomotor transportando carga incompatível com suas especificações."
+    },
+    {
+        "id": 521,
+        "artigo": "244 § 1º",
+        "codigo": "7102",
+        "desob": "2",
+        "descricao": "Conduzirciclo transportando carga incompatível com suas especificações."
+    },
+    {
+        "id": 522,
+        "artigo": "244 § 1 a",
+        "codigo": "7110",
+        "desob": "0",
+        "descricao": "Conduzir ciclo transportando passageiro fora da garupa ou do assento especial a ele destinado ."
+    },
+    {
+        "id": 523,
+        "artigo": "244 § 1 b",
+        "codigo": "7129",
+        "desob": "0",
+        "descricao": "Conduzir ciclo e ciclomotor em vias de trânsito rápido ou rodovias salvo, onde houver acostamento ou faixa de rolamento própria ."
+    },
+    {
+        "id": 524,
+        "artigo": "244 § 1 b",
+        "codigo": "7129",
+        "desob": "1",
+        "descricao": "Conduzir cicloem vias de trânsito rápido salvo onde houver acostamento ou faixa de rolamento própria."
+    },
+    {
+        "id": 525,
+        "artigo": "244 § 1 b",
+        "codigo": "7129",
+        "desob": "2",
+        "descricao": "Conduzir ciclo em rodovias salvo onde houver acostamento ou faixa de rolamento própria."
+    },
+    {
+        "id": 526,
+        "artigo": "244 § 2º",
+        "codigo": "7129",
+        "desob": "3",
+        "descricao": "Conduzir ciclomotorem vias de trânsito rápido salvo onde houver acostamento ou faixa de rolamento própria ."
+    },
+    {
+        "id": 527,
+        "artigo": "244 § 2º",
+        "codigo": "7129",
+        "desob": "4",
+        "descricao": "Conduzirciclomotor em rodovias salvo onde houver acostamento ou faixa de rolamento própria."
+    },
+    {
+        "id": 528,
+        "artigo": "244 § 1 c",
+        "codigo": "7137",
+        "desob": "0",
+        "descricao": "Conduzir ciclo transportando crianças que não tenham, nas circunstâncias, condições de cuidar de sua própria segurança."
+    },
+    {
+        "id": 529,
+        "artigo": "245",
+        "codigo": "7145",
+        "desob": "0",
+        "descricao": "Utilizar a via para depósito de mercadorias, materiais e equipamentos sem autorização do Órgão ou entidade de trânsito com circunscrição sobre a via."
+    },
+    {
+        "id": 530,
+        "artigo": "246",
+        "codigo": "7153",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, sem agravamento da penalidade pela Autoridade de Trânsito ."
+    },
+    {
+        "id": 531,
+        "artigo": "246",
+        "codigo": "7161",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de duas vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "id": 532,
+        "artigo": "246",
+        "codigo": "7170",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de três vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "id": 533,
+        "artigo": "246",
+        "codigo": "7188",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de quatro vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "id": 534,
+        "artigo": "246",
+        "codigo": "7196",
+        "desob": "0",
+        "descricao": "Deixar de sinalizar qualquer obstáculo a livre circulação, a segurança de veículo e pedestre, tanto no leito da via terrestre como na calcada, ou obstaculizar a via indevidamente, com agravamento da penalidade de quatro vezes pela Autoridade de Trânsito ."
+    },
+    {
+        "id": 535,
+        "artigo": "247",
+        "codigo": "7200",
+        "desob": "0",
+        "descricao": "Deixar de conduzir pelo bordo da pista de rolamento, em fila única, os veículos de tração ou propulsão humana e os de tração animal, sempre que não houver acostamento ou faixa a eles destinadas ."
+    },
+    {
+        "id": 536,
+        "artigo": "248",
+        "codigo": "7218",
+        "desob": "0",
+        "descricao": "Transportar em veículo destinados ao transporte de passageiros, carga excedente em desacordo com as normas estabelecidas pelo CONTRAN ."
+    },
+    {
+        "id": 537,
+        "artigo": "249",
+        "codigo": "7226",
+        "desob": "0",
+        "descricao": "Deixar de manter acesas a noite, as luzes de posição quando o veículo estiver parado para fins de embarque ou desembarque de passageiros e de carga ou descarga de mercadorias."
+    },
+    {
+        "id": 538,
+        "artigo": "249",
+        "codigo": "7226",
+        "desob": "1",
+        "descricao": "Deixar de manter acesas a noite, as luzes de posição quando o veículo estiver parado para fins de embarque ou desembarque de passageiros."
+    },
+    {
+        "id": 539,
+        "artigo": "249",
+        "codigo": "7226",
+        "desob": "2",
+        "descricao": "Deixar de manter acesas a noite, as luzes de posição quando o veículo estiver parado para fins de carga e descarga de mercadorias ."
+    },
+    {
+        "id": 540,
+        "artigo": "250 I a",
+        "codigo": "7234",
+        "desob": "0",
+        "descricao": "Deixar de manter acesa a luz baixa, quando o veículo estiver em movimento, durante a noite."
+    },
+    {
+        "id": 541,
+        "artigo": "250 I b",
+        "codigo": "7242",
+        "desob": "0",
+        "descricao": "Deixar de manter acesa a luz baixa, quando o veículo estiver em movimento, de dia, nos túneis providos de iluminação pública e nas rodovias."
+    },
+    {
+        "id": 542,
+        "artigo": "250, I, c",
+        "codigo": "7250",
+        "desob": "0",
+        "descricao": "Em mov de dia, deixar de manter acesa luz baixa veíc transp coletivo faixas/pistas destinadas."
+    },
+    {
+        "id": 543,
+        "artigo": "250, I, d",
+        "codigo": "7269",
+        "desob": "0",
+        "descricao": "Em movimento de dia, deixar de manter acesa luz baixa de motocicletas/motonetas/ciclomotores."
+    },
+    {
+        "id": 544,
+        "artigo": "250 II",
+        "codigo": "7277",
+        "desob": "0",
+        "descricao": "Deixar de manter acesas pelo menos as luzes de posição sob chuva forte, neblina ou cerração, quando o veículo estiver em movimento."
+    },
+    {
+        "id": 545,
+        "artigo": "250 III",
+        "codigo": "7285",
+        "desob": "0",
+        "descricao": "Deixar de manter a placa traseira iluminada à noite, quando o veículo estiver em movimento."
+    },
+    {
+        "id": 546,
+        "artigo": "251 I",
+        "codigo": "7293",
+        "desob": "0",
+        "descricao": "Utilizar as luzes do veículo, pisca alerta, exceto em imobilizações ou situações de emergência."
+    },
+    {
+        "id": 547,
+        "artigo": "251 II",
+        "codigo": "7307",
+        "desob": "0",
+        "descricao": "Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB."
+    },
+    {
+        "id": 548,
+        "artigo": "252 I",
+        "codigo": "7315",
+        "desob": "0",
+        "descricao": "Dirigir o veículo com o braço do lado de fora ."
+    },
+    {
+        "id": 549,
+        "artigo": "252 II",
+        "codigo": "7323",
+        "desob": "0",
+        "descricao": "Dirigir o veículo transportando pessoas, animais ou volume à sua esquerda ou entre os braços e pernas ."
+    },
+    {
+        "id": 550,
+        "artigo": "252 II",
+        "codigo": "7323",
+        "desob": "1",
+        "descricao": "Dirigir o veículo transportando pessoas à sua esquerda ou entre os braços e pernas."
+    },
+    {
+        "id": 551,
+        "artigo": "252 II",
+        "codigo": "7323",
+        "desob": "2",
+        "descricao": "Dirigir o veículo transportando animais à sua esquerda ou entre os braços e pernas."
+    },
+    {
+        "id": 552,
+        "artigo": "252 II",
+        "codigo": "7323",
+        "desob": "3",
+        "descricao": "Dirigir o veículo transportando volume à sua esquerda ou entre os braços e pernas ."
+    },
+    {
+        "id": 553,
+        "artigo": "252 III",
+        "codigo": "7331",
+        "desob": "0",
+        "descricao": "Dirigir o veículo com incapacidade física ou mental temporária que comprometa a segurança do trânsito ."
+    },
+    {
+        "id": 554,
+        "artigo": "252 IV",
+        "codigo": "7340",
+        "desob": "0",
+        "descricao": "Dirigir o veículo usando calçado que não se firme aos pés ou que comprometa a utilização dos pedais ."
+    },
+    {
+        "id": 555,
+        "artigo": "252 V",
+        "codigo": "7358",
+        "desob": "0",
+        "descricao": "Dirigiro veículo com apenas uma das mãos, exceto quando deva fazer sinais regulamentares de braço, mudar a marcha do veículo ou acionar equipamentos e acessórios do veículo."
+    },
+    {
+        "id": 556,
+        "artigo": "252 VI",
+        "codigo": "7366",
+        "desob": "0",
+        "descricao": "Dirigir o veículo utilizando-se de fones nos ouvidos conectados a aparelhagem sonora ou de telefone celular ."
+    },
+    {
+        "id": 557,
+        "artigo": "252 VI",
+        "codigo": "7366",
+        "desob": "1",
+        "descricao": "Dirigir o veículo utilizando-se de fones nos ouvidos conectados a aparelhagem sonora."
+    },
+    {
+        "id": 558,
+        "artigo": "252 VI",
+        "codigo": "7366",
+        "desob": "2",
+        "descricao": "Dirigir o veículo utilizando-se de telefone celular ."
+    },
+    {
+        "id": 559,
+        "artigo": "253",
+        "codigo": "7374",
+        "desob": "0",
+        "descricao": "Bloquear a via com o veículo."
+    },
+    {
+        "id": 560,
+        "artigo": "254 I",
+        "codigo": "7382",
+        "desob": "0",
+        "descricao": "É proibido ao pedestre permanecer ou andar nas pistas de rolamento, exceto para cruza-las onde for permitido."
+    },
+    {
+        "id": 561,
+        "artigo": "254 I",
+        "codigo": "7382",
+        "desob": "1",
+        "descricao": "É proibido ao pedestre permanecer nas pistas de rolamento, exceto para cruza-las onde for permitido ."
+    },
+    {
+        "id": 562,
+        "artigo": "254 I",
+        "codigo": "7382",
+        "desob": "2",
+        "descricao": "É proibido ao pedestre andar nas pistas de rolamento, exceto para cruza-las onde for permitido."
+    },
+    {
+        "id": 563,
+        "artigo": "254 II",
+        "codigo": "7390",
+        "desob": "0",
+        "descricao": "É proibido ao pedestre cruzar pistas de rolamento nos viadutos, pontes ou túneis salvo onde exista permissão."
+    },
+    {
+        "id": 564,
+        "artigo": "254 II",
+        "codigo": "7390",
+        "desob": "1",
+        "descricao": "É proibido ao pedestre cruzar pistas de rolamento nos viadutos, salvo onde exista permissão ."
+    },
+    {
+        "id": 565,
+        "artigo": "254 II",
+        "codigo": "7390",
+        "desob": "2",
+        "descricao": "É proibido ao pedestre cruzar pistas de rolamento nas pontes salvo onde exista permissão."
+    },
+    {
+        "id": 566,
+        "artigo": "254 II",
+        "codigo": "7390",
+        "desob": "3",
+        "descricao": "É proibido ao pedestre cruzar pistas de rolamento nos túneis, salvo onde exista permissão ."
+    },
+    {
+        "id": 567,
+        "artigo": "254 III",
+        "codigo": "7404",
+        "desob": "0",
+        "descricao": "É proibido ao pedestre atravessar a via dentro de áreas de cruzamento, salvo quando houver sinalização para esse fim."
+    },
+    {
+        "id": 568,
+        "artigo": "254 IV",
+        "codigo": "7412",
+        "desob": "0",
+        "descricao": "É proibido ao pedestre utilizar-se da via em agrupamentos capazes de perturbar o trânsito ou para a pratica de qualquer folguedo, esportes, desfiles e similares, salvo em casos especiais e com a devida licença de Autoridade competente."
+    },
+    {
+        "id": 569,
+        "artigo": "254 V",
+        "codigo": "7420",
+        "desob": "0",
+        "descricao": "É proibido ao pedestre andar fora da faixa própria, passarela, passagem aérea ou subterrânea."
+    },
+    {
+        "id": 570,
+        "artigo": "254 V",
+        "codigo": "7420",
+        "desob": "1",
+        "descricao": "É proibido ao pedestre andar fora da faixa própria."
+    },
+    {
+        "id": 571,
+        "artigo": "254 V",
+        "codigo": "7420",
+        "desob": "2",
+        "descricao": "É proibido ao pedestre andar fora da passarela."
+    },
+    {
+        "id": 572,
+        "artigo": "254 V",
+        "codigo": "7420",
+        "desob": "3",
+        "descricao": "É proibido ao pedestre andar fora da passagem aérea ."
+    },
+    {
+        "id": 573,
+        "artigo": "254 V",
+        "codigo": "7420",
+        "desob": "4",
+        "descricao": "É proibido ao pedestre andar fora da passagem subterrânea ."
+    },
+    {
+        "id": 574,
+        "artigo": "254 VI",
+        "codigo": "7439",
+        "desob": "0",
+        "descricao": "É proibido ao pedestre desobedecer a sinalização de trânsito específica ."
+    },
+    {
+        "id": 575,
+        "artigo": "255",
+        "codigo": "7447",
+        "desob": "0",
+        "descricao": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta ou de forma agressiva ."
+    },
+    {
+        "id": 576,
+        "artigo": "255",
+        "codigo": "7447",
+        "desob": "1",
+        "descricao": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta ."
+    },
+    {
+        "id": 577,
+        "artigo": "255",
+        "codigo": "7447",
+        "desob": "2",
+        "descricao": "Conduzir bicicleta de forma agressiva ."
+    },
+    {
+        "id": 578,
+        "artigo": "45 I a",
+        "codigo": "9016",
+        "desob": "0",
+        "descricao": "Transportar produto cujo o deslocamento rodoviário seja proibido pelo Ministério dos Transportes."
+    },
+    {
+        "id": 579,
+        "artigo": "45 I b",
+        "codigo": "9024",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso a granel que não conste do certificado de capacitação."
+    },
+    {
+        "id": 580,
+        "artigo": "45 I c",
+        "codigo": "9032",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso a granel em veículo desprovido de certificado de capacitação válido."
+    },
+    {
+        "id": 581,
+        "artigo": "45 I d",
+        "codigo": "9040",
+        "desob": "0",
+        "descricao": "Transportar juntamente com produto perigoso, pessoas, animais, alimentos ou medicamentos destinados ao consumo humano ou animal ou ainda embalagens destinadas a estes bens ."
+    },
+    {
+        "id": 582,
+        "artigo": "45 I d",
+        "codigo": "9040",
+        "desob": "1",
+        "descricao": "Transportar juntamente com produto perigoso, pessoas ou ainda embalagens destinadas a estes bens."
+    },
+    {
+        "id": 583,
+        "artigo": "45 I d",
+        "codigo": "9040",
+        "desob": "2",
+        "descricao": "Transportar juntamente com produto perigoso, animais ou ainda embalagens destinadas a estes bens."
+    },
+    {
+        "id": 584,
+        "artigo": "45 I d",
+        "codigo": "9040",
+        "desob": "3",
+        "descricao": "Transportar juntamente com produto perigoso, alimentos destinados ao consumo humano ou animal ou ainda embalagens destinadas a estes bens ."
+    },
+    {
+        "id": 585,
+        "artigo": "45 I d",
+        "codigo": "9040",
+        "desob": "4",
+        "descricao": "Transportar juntamente com produto perigoso, medicamentos destinados ao consumo humano ou animal ou ainda embalagens destinadas a estes bens."
+    },
+    {
+        "id": 586,
+        "artigo": "45 I e",
+        "codigo": "9059",
+        "desob": "0",
+        "descricao": "Transportar produtos incompatíveis entre si, apesar de advertido pelo expedidor ."
+    },
+    {
+        "id": 587,
+        "artigo": "45 II a",
+        "codigo": "9067",
+        "desob": "0",
+        "descricao": "Não dar manutenção ao veículo ou ao seu equipamento ."
+    },
+    {
+        "id": 588,
+        "artigo": "45 II a",
+        "codigo": "9067",
+        "desob": "1",
+        "descricao": "Não dar manutenção ao veículo ."
+    },
+    {
+        "id": 589,
+        "artigo": "45 II a",
+        "codigo": "9067",
+        "desob": "2",
+        "descricao": "Não dar manutenção ao equipamento ."
+    },
+    {
+        "id": 590,
+        "artigo": "45 II b",
+        "codigo": "9075",
+        "desob": "0",
+        "descricao": "Estacionar ou parar com inobservância ao preceituado no artigo 14 ."
+    },
+    {
+        "id": 591,
+        "artigo": "45 II b",
+        "codigo": "9075",
+        "desob": "1",
+        "descricao": "Estacionar com inobservância ao artigo 14 ."
+    },
+    {
+        "id": 592,
+        "artigo": "45 II b",
+        "codigo": "9075",
+        "desob": "2",
+        "descricao": "Parar com inobservância ao artigo 14."
+    },
+    {
+        "id": 593,
+        "artigo": "45 II c",
+        "codigo": "9083",
+        "desob": "0",
+        "descricao": "Transportar produtos cujas as embalagens se encontrem em más condições."
+    },
+    {
+        "id": 594,
+        "artigo": "45 II d",
+        "codigo": "9091",
+        "desob": "0",
+        "descricao": "Não adotar em caso de acidente ou avaria, as providências constantes da ficha de emergência e do envelope para o transporte ."
+    },
+    {
+        "id": 595,
+        "artigo": "45 II d",
+        "codigo": "9091",
+        "desob": "1",
+        "descricao": "Não adotar em caso de acidente as providências constantes da ficha de emergência e do envelope para o transporte."
+    },
+    {
+        "id": 596,
+        "artigo": "45 II d",
+        "codigo": "9091",
+        "desob": "2",
+        "descricao": "Não adotar em caso de avaria as providências constantes da ficha de emergência e do envelope para o transporte."
+    },
+    {
+        "id": 597,
+        "artigo": "45 II e",
+        "codigo": "9105",
+        "desob": "0",
+        "descricao": "Transportar produto a granel sem utilizar o tacógrafo ou não apresentar o disco a Autoridade competente, quando solicitado."
+    },
+    {
+        "id": 598,
+        "artigo": "45 II e",
+        "codigo": "9105",
+        "desob": "1",
+        "descricao": "Transportar produto a granel sem utilizar o tacógrafo ."
+    },
+    {
+        "id": 599,
+        "artigo": "45 II e",
+        "codigo": "9105",
+        "desob": "2",
+        "descricao": "Transportar produto a granel e não apresentar o disco a Autoridade competente quando solicitado ."
+    },
+    {
+        "id": 600,
+        "artigo": "45 III a",
+        "codigo": "9113",
+        "desob": "0",
+        "descricao": "Transportar carga mal estivada."
+    },
+    {
+        "id": 601,
+        "artigo": "45 III b",
+        "codigo": "9121",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso em veículo desprovido de equipamento para situação de emergência e proteção individual ."
+    },
+    {
+        "id": 602,
+        "artigo": "45 III b",
+        "codigo": "9121",
+        "desob": "1",
+        "descricao": "Transportar produto perigoso em veículo desprovido de equipamento para situação de emergência ."
+    },
+    {
+        "id": 603,
+        "artigo": "45 III b",
+        "codigo": "9121",
+        "desob": "2",
+        "descricao": "Transportar produto perigoso em veículo desprovido de equipamento de proteção individual."
+    },
+    {
+        "id": 604,
+        "artigo": "45 III c",
+        "codigo": "9130",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso desacompanhado de certificado de capacitação para o transporte de produtos perigosos granel."
+    },
+    {
+        "id": 605,
+        "artigo": "45 III d",
+        "codigo": "9148",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso desacompanhado de declaração de responsabilidade do expedidor aposta no documento fiscal ."
+    },
+    {
+        "id": 606,
+        "artigo": "45 III e",
+        "codigo": "9156",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso desacompanhado de ficha de emergência e envelope para o transporte ."
+    },
+    {
+        "id": 607,
+        "artigo": "45 III e",
+        "codigo": "9156",
+        "desob": "1",
+        "descricao": "Transportar produto perigoso desacompanhado de ficha de emergência."
+    },
+    {
+        "id": 608,
+        "artigo": "45 III e",
+        "codigo": "9156",
+        "desob": "2",
+        "descricao": "Transportar produto perigoso desacompanhado de envelope para o transporte ."
+    },
+    {
+        "id": 609,
+        "artigo": "45 III f",
+        "codigo": "9164",
+        "desob": "0",
+        "descricao": "Transportar produto perigoso sem utilizar nas embalagens e no veículo, rótulos de risco e painéis de segurança em bom estado e correspondentes ao produto transportado."
+    },
+    {
+        "id": 610,
+        "artigo": "45 III f",
+        "codigo": "9164",
+        "desob": "1",
+        "descricao": "Transportar produto perigoso sem utilizar nas embalagens, rótulos de risco e painéis de segurança em bom estado e correspondentes ao produto transportado ."
+    },
+    {
+        "id": 611,
+        "artigo": "45 III f",
+        "codigo": "9164",
+        "desob": "2",
+        "descricao": "Transportar produto perigoso sem utilizar no veículo, rótulos de risco e painéis de segurança em bom estado e correspondentes ao produto transportado ."
+    },
+    {
+        "id": 612,
+        "artigo": "45 III g",
+        "codigo": "9172",
+        "desob": "0",
+        "descricao": "Circular em vias públicas nas quais não seja permitido o trânsito de veículos transportando produto perigoso."
+    },
+    {
+        "id": 613,
+        "artigo": "45 III h",
+        "codigo": "9180",
+        "desob": "0",
+        "descricao": "Não dar imediata ciência da imobilização do veículo em caso de emergência, acidente ou avaria ."
+    },
+    {
+        "id": 614,
+        "artigo": "45 III h",
+        "codigo": "9180",
+        "desob": "1",
+        "descricao": "Não dar imediata ciência da imobilização do veículo em caso de emergência ."
+    },
+    {
+        "id": 615,
+        "artigo": "45 III h",
+        "codigo": "9180",
+        "desob": "2",
+        "descricao": "Não dar imediata ciência da imobilização do veículo em caso de acidente ."
+    },
+    {
+        "id": 616,
+        "artigo": "45 III h",
+        "codigo": "9180",
+        "desob": "3",
+        "descricao": "Não dar imediata ciência da imobilização do veículo em caso de avaria ."
+    },
+    {
+        "id": 617,
+        "artigo": "46 I a",
+        "codigo": "9199",
+        "desob": "0",
+        "descricao": "Embarcar no veículo produtos incompatíveis entre si ."
+    },
+    {
+        "id": 618,
+        "artigo": "46 I b",
+        "codigo": "9202",
+        "desob": "0",
+        "descricao": "Embarcar produto perigoso não constante do certificado de capacitação do veículo ou equipamento ou estando este certificado vencido ."
+    },
+    {
+        "id": 619,
+        "artigo": "46 I b",
+        "codigo": "9202",
+        "desob": "1",
+        "descricao": "Embarcar produto perigoso não constante do certificado de capacitação do veículo ou estando este vencido."
+    },
+    {
+        "id": 620,
+        "artigo": "46 I b",
+        "codigo": "9202",
+        "desob": "2",
+        "descricao": "Embarcar produto perigoso não constante do certificado de capacitação do equipamento ou estando este vencido."
+    },
+    {
+        "id": 621,
+        "artigo": "46 I c",
+        "codigo": "9210",
+        "desob": "0",
+        "descricao": "Não lançar no documento fiscal, as informações de que trata o item II do artigo 22."
+    },
+    {
+        "id": 622,
+        "artigo": "46 I d",
+        "codigo": "9229",
+        "desob": "0",
+        "descricao": "Expedir produto perigoso mal acondicionado ou com embalagem em más condições."
+    },
+    {
+        "id": 623,
+        "artigo": "46 I d",
+        "codigo": "9229",
+        "desob": "1",
+        "descricao": "Expedir produto perigoso mal acondicionado."
+    },
+    {
+        "id": 624,
+        "artigo": "46 I d",
+        "codigo": "9229",
+        "desob": "2",
+        "descricao": "Expedir produto perigoso com a embalagem em más condições ."
+    },
+    {
+        "id": 625,
+        "artigo": "46 I e",
+        "codigo": "9237",
+        "desob": "0",
+        "descricao": "Não comparecer ao local do acidente quando expressamente convocado pela Autoridade competente ."
+    },
+    {
+        "id": 626,
+        "artigo": "46 II a",
+        "codigo": "9245",
+        "desob": "0",
+        "descricao": "Embarcar produto perigoso em veículo que não disponha de conjunto de equipamentos para situação de emergência e proteção individual ."
+    },
+    {
+        "id": 627,
+        "artigo": "46 II a",
+        "codigo": "9245",
+        "desob": "1",
+        "descricao": "Embarcar produto perigoso em veículo que não disponha de conjunto de equipamentos para situação de emergência ."
+    },
+    {
+        "id": 628,
+        "artigo": "46 II a",
+        "codigo": "9245",
+        "desob": "2",
+        "descricao": "Embarcar produto perigoso em veículo que não disponha de conjunto de equipamentos de proteção individual."
+    },
+    {
+        "id": 629,
+        "artigo": "46 II b",
+        "codigo": "9253",
+        "desob": "0",
+        "descricao": "Não fornecer ao transportador a ficha de emergência e o envelope para o transporte."
+    },
+    {
+        "id": 630,
+        "artigo": "46 II b",
+        "codigo": "9253",
+        "desob": "1",
+        "descricao": "Não fornecer ao transportador a ficha de emergência ."
+    },
+    {
+        "id": 631,
+        "artigo": "46 II b",
+        "codigo": "9253",
+        "desob": "2",
+        "descricao": "Não fornecer ao transportador o envelope para o transporte."
+    },
+    {
+        "id": 632,
+        "artigo": "46 II c",
+        "codigo": "9261",
+        "desob": "0",
+        "descricao": "Embarcar produto perigoso em veículo que não esteja utilizando rótulos de risco e painéis de segurança, afixados nos locais adequados ."
+    },
+    {
+        "id": 633,
+        "artigo": "46 II d",
+        "codigo": "9270",
+        "desob": "0",
+        "descricao": "Expedir carga fracionada com embalagem externa desprovida dos rótulos de risco específicos."
+    },
+    {
+        "id": 634,
+        "artigo": "46 II e",
+        "codigo": "9288",
+        "desob": "0",
+        "descricao": "Embarcar produto perigoso em veículo ou equipamento que não apresente adequadas condições de manutenção ."
+    },
+    {
+        "id": 635,
+        "artigo": "46 II f",
+        "codigo": "9296",
+        "desob": "0",
+        "descricao": "Não prestar os necessários esclarecimentos técnicos em situação de emergência ou acidentes, quando solicitado pelas Autoridades ."
+    },
+    {
+        "id": 636,
+        "artigo": "46 II f",
+        "codigo": "9296",
+        "desob": "1",
+        "descricao": "Não prestar os necessários esclarecimentos técnicos em situação de emergência quando solicitado pelas Autoridades ."
+    },
+    {
+        "id": 637,
+        "artigo": "46 II f",
+        "codigo": "9296",
+        "desob": "2",
+        "descricao": "Não prestar os necessários esclarecimentos técnicos em situação de acidente quando solicitado pelas Autoridades ."
+    },
+    {
+        "id": 638,
+        "artigo": "257 § 8º",
+        "codigo": "5002",
+        "desob": "0",
+        "descricao": "Multa, por não identificação do condutor infrator, imposta à pessoa jurídica."
+    },
+    {
+        "id": 639,
+        "artigo": "218 III",
+        "codigo": "7471",
+        "desob": "0",
+        "descricao": "Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em mais de 50% (cinqüenta por cento) ."
+    },
+    {
+        "id": 640,
+        "artigo": "218 II",
+        "codigo": "7463",
+        "desob": "0",
+        "descricao": "Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em mais de 20% (vinte por cento) até 50% (cinqüenta por cento) ."
+    },
+    {
+        "id": 641,
+        "artigo": "218 I",
+        "codigo": "7455",
+        "desob": "0",
+        "descricao": "Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, rodovias, vias de trânsito rápido, vias arteriais e demais vias quando a velocidade for superior à máxima em até 20% (vinte por cento) ."
+    },
+    {
+        "id": 642,
+        "artigo": "181 XIX",
+        "codigo": "5568",
+        "desob": "0",
+        "descricao": "Estacionar o veículo em locais e horários de estacionamento e parada proibida pela sinalização."
+    },
+    {
+        "id": 643,
+        "artigo": "230 * V",
+        "codigo": "6599",
+        "desob": "1",
+        "descricao": "Conduzir o veículo que não esteja registrado."
+    },
+    {
+        "id": 644,
+        "artigo": "230 * V",
+        "codigo": "6599",
+        "desob": "2",
+        "descricao": "Conduzir o veículo registrado que não esteja devidamente licenciado ."
+    },
+    {
+        "id": 645,
+        "artigo": "234",
+        "codigo": "6939",
+        "desob": "3",
+        "descricao": "Falsificar documento de identificação do veículo."
+    },
+    {
+        "id": 646,
+        "artigo": "234",
+        "codigo": "6939",
+        "desob": "4",
+        "descricao": "Adulterar documento de identificação do veículo ."
+    },
+    {
+        "id": 647,
+        "artigo": "244, V",
+        "codigo": "7072",
+        "desob": "1",
+        "descricao": "Conduzir motocicleta/motoneta/ciclomotor transportando criança menor de 10 anos de idade."
+    },
+    {
+        "id": 648,
+        "artigo": "244, V",
+        "codigo": "7072",
+        "desob": "2",
+        "descricao": "Conduzir motoc/moton/ciclom transp criança s/ condição cuidar própria segurança."
+    },
+    {
+        "id": 649,
+        "artigo": "246",
+        "codigo": "7153",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar obstáculo à circulação/segurança calçada/pista-s/agravamento."
+    },
+    {
+        "id": 650,
+        "artigo": "246",
+        "codigo": "7170",
+        "desob": "2",
+        "descricao": "Obstaculizar a via indevidamente-agravamento 3X ."
+    },
+    {
+        "id": 651,
+        "artigo": "246",
+        "codigo": "7188",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 4X ."
+    },
+    {
+        "id": 652,
+        "artigo": "246",
+        "codigo": "7188",
+        "desob": "2",
+        "descricao": "Obstaculizar a via indevidamente-agravamento 4X ."
+    },
+    {
+        "id": 653,
+        "artigo": "246",
+        "codigo": "7196",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 5X ."
+    },
+    {
+        "id": 654,
+        "artigo": "246",
+        "codigo": "7196",
+        "desob": "2",
+        "descricao": "Obstaculizar a via indevidamente-agravamento 5X ."
+    },
+    {
+        "id": 655,
+        "artigo": "247",
+        "codigo": "7200",
+        "desob": "1",
+        "descricao": "Deixar de conduzir pelo bordo pista em fila única veíc tração/propulsão humana."
+    },
+    {
+        "id": 656,
+        "artigo": "247",
+        "codigo": "7200",
+        "desob": "2",
+        "descricao": "Deixar de conduzir pelo bordo da pista em fila única veículo de tração animal ."
+    },
+    {
+        "id": 657,
+        "artigo": "187 * I",
+        "codigo": "5746",
+        "desob": "3",
+        "descricao": "Transitar em local/horário não permitido pela regulamentação - veículo de carga ."
+    },
+    {
+        "id": 658,
+        "artigo": "246",
+        "codigo": "7153",
+        "desob": "2",
+        "descricao": "Obstaculizar a via indevidamente-s/agravamento."
+    },
+    {
+        "id": 659,
+        "artigo": "246",
+        "codigo": "7160",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 2X ."
+    },
+    {
+        "id": 660,
+        "artigo": "246",
+        "codigo": "7160",
+        "desob": "2",
+        "descricao": "Obstaculizar a via indevidamente-agravamento 2X ."
+    },
+    {
+        "id": 661,
+        "artigo": "246",
+        "codigo": "7170",
+        "desob": "1",
+        "descricao": "Deixar de sinalizar obstáculo circulação/segurança calçada/pista-agravamento 3X ."
+    },
+    {
+        "id": 662,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "6",
+        "descricao": "Estacionar em desacordo com a regulamentação - vaga para idoso. ."
+    },
+    {
+        "id": 663,
+        "artigo": "184 III",
+        "codigo": "7587",
+        "desob": "0",
+        "descricao": "Transitar com o veículo na faixa ou via exclusiva regulamentada para transporte público coletivo de passageiros."
+    },
+    {
+        "id": 664,
+        "artigo": "165 a",
+        "codigo": "7579",
+        "desob": "0",
+        "descricao": "Condutor que se recusar a submeter a qualquer dos procedimentos previstos no art. 277 do CTB."
+    },
+    {
+        "id": 665,
+        "artigo": "181 XX",
+        "codigo": "7625",
+        "desob": "1",
+        "descricao": "Estacionar o veículo nas vagas reservadas às pessoas com deficiência ou idosos, sem credencial que comprove tal condição."
+    },
+    {
+        "id": 666,
+        "artigo": "252, § único",
+        "codigo": "7633",
+        "desob": "1",
+        "descricao": "Dirigir veículo segurando telefone celular."
+    },
+    {
+        "id": 667,
+        "artigo": "252, § único",
+        "codigo": "7633",
+        "desob": "2",
+        "descricao": "Dirigir veículo manuseando telefone."
+    },
+    {
+        "id": 668,
+        "artigo": "230 XXIII",
+        "codigo": "7560",
+        "desob": "0",
+        "descricao": "Conduzir veículo de carga ou passageiros em desacordo com intervalos para descanso."
+    },
+    {
+        "id": 669,
+        "artigo": "181 XVII",
+        "codigo": "5541",
+        "desob": "7",
+        "descricao": "Estacionar em desacordo com a regulamentação - vaga de curta duração.."
+    },
+    {
+        "id": 670,
+        "artigo": "250, I, b",
+        "codigo": "7242",
+        "desob": "1",
+        "descricao": "Em movimento de dia, deixar de manter acesa luz baixa em túneis."
+    },
+    {
+        "id": 671,
+        "artigo": "250, I, b",
+        "codigo": "7242",
+        "desob": "2",
+        "descricao": "Em movimento de dia, deixar de manter acesa luz baixa sob chuva, neblina ou cerração."
+    },
+    {
+        "id": 672,
+        "artigo": "253 A",
+        "codigo": "7617",
+        "desob": "1",
+        "descricao": "Usar qualquer veículo para, deliberadamente, interromper a circulação na via sem autorização do órgão."
+    },
+    {
+        "id": 673,
+        "artigo": "253 A",
+        "codigo": "7617",
+        "desob": "2",
+        "descricao": "Usar qualquer veículo para, deliberadamente, restringir a circulação na via sem autorização do órgão."
+    },
+    {
+        "id": 674,
+        "artigo": "253 A",
+        "codigo": "7617",
+        "desob": "3",
+        "descricao": "Usar qualquer veículo para, deliberadamente, perturbar a circulação na via sem autorização do orgão."
+    },
+    {
+        "id": 675,
+        "artigo": "181 XX",
+        "codigo": "7625",
+        "desob": "2",
+        "descricao": "Estacionar o veículo nas vagas reservadas a idosos, sem credencial que comprove tal condição."
+    },
+    {
+        "id": 676,
+        "artigo": "165-B",
+        "codigo": "7641",
+        "desob": "0",
+        "descricao": "Cond veíc exig hab C, D ou E sem realizar ex toxic prev no § 2º do art 148-A, após 30 dias do venc."
+    },
+    {
+        "id": 677,
+        "artigo": "165-B, § Ú",
+        "codigo": "7650",
+        "desob": "0",
+        "descricao": "Exerc at rem veíc e não compr a real ex toxic per ex p § 2º do art 148-A por oc ren hab C, D ou E."
+    },
+    {
+        "id": 678,
+        "artigo": "182, XI",
+        "codigo": "7670",
+        "desob": "0",
+        "descricao": "Parar o veículo sobre ciclovia ou ciclofaixa."
+    },
+    {
+        "id": 679,
+        "artigo": "244, X",
+        "codigo": "7684",
+        "desob": "1",
+        "descricao": "Conduzir motoc/ moton/ ciclom c/ utilização de capacete de segurança s/ viseira/óculos de proteção."
+    },
+    {
+        "id": 680,
+        "artigo": "244, X",
+        "codigo": "7684",
+        "desob": "2",
+        "descricao": "Conduzir motoc/ moton/ ciclom c/ útil capacete de seg c/ viseira/óculos prot em des c/ regul Contran."
+    },
+    {
+        "id": 681,
+        "artigo": "244, XI",
+        "codigo": "7714",
+        "desob": "1",
+        "descricao": "Conduzir motoc/ moton/ ciclom transp pass c/ capacete de segurança s/ viseira/óculos de proteção."
+    },
+    {
+        "id": 682,
+        "artigo": "244, XI",
+        "codigo": "7714",
+        "desob": "2",
+        "descricao": "Conduzir motoc/ moton/ ciclom transp pass c/ cap seg c/ viseira/óculos prot em des c/ regul Contran."
+    },
+    {
+        "id": 683,
+        "artigo": "250, I, e",
+        "codigo": "7722",
+        "desob": "0",
+        "descricao": "Em mov deix de man aces luz baixa de dia, em rod pis simp sit fora per urb, veíc desp luz rod diur."
+    },
+    {
+        "id": 684,
+        "artigo": "233 c/c 123, I",
+        "codigo": "6920",
+        "desob": "1",
+        "descricao": "Deixar de efetuar registro do veículo em 30 dias, qdo for transf a propriedade."
+    },
+    {
+        "id": 685,
+        "artigo": "233 c/c 123, II",
+        "codigo": "6920",
+        "desob": "2",
+        "descricao": "Deixar de efetuar reg do veíc em 30 dias, qdo mudar o munic de domicilio/resid."
+    },
+    {
+        "id": 686,
+        "artigo": "233 c/c 123, III",
+        "codigo": "6920",
+        "desob": "3",
+        "descricao": "Deixar de efetuar reg de veíc em 30 dias, qdo for alterada qquer caract do veic."
+    },
+    {
+        "id": 687,
+        "artigo": "233 c/c 123, IV",
+        "codigo": "6920",
+        "desob": "4",
+        "descricao": "Deixar de efetuar registro de veículo em 30 dias, qdo houver mudança de categoria."
+    }
+]
