@@ -1,5 +1,14 @@
 import { useState } from "react";
-import { VStack, Heading, ScrollView, Icon } from "native-base";
+import {
+  VStack,
+  Heading,
+  ScrollView,
+  Icon,
+  Text,
+  HStack,
+  Image,
+  Pressable,
+} from "native-base";
 import { Input } from "../components/Input";
 import { Button } from "../components/Button";
 import { Alert } from "react-native";
@@ -8,10 +17,12 @@ import { InputErro } from "../components/EntradaErro";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Infracoes } from "./Infracoes";
 import { Label } from "../components/Label";
+import Camera from "./Camera";
+import { useNavigation } from "@react-navigation/native";
 
 const Stack = createNativeStackNavigator();
 
-function Tela({ navigation }) {
+function Tela() {
   const [Placa, setPlaca] = useState("");
   const [Veiculo, setVeiculo] = useState("");
   const [Marca, setMarca] = useState("");
@@ -23,6 +34,14 @@ function Tela({ navigation }) {
   const [erroMarca, setErroMarca] = useState(false);
   const [erroEspecie, setErroEspecie] = useState(false);
   const [Erros, setErros] = useState(false);
+
+  const [carImages, setCarImages] = useState({});
+
+  const navigation = useNavigation();
+
+  const handleCarImages = (newImage, id) => {
+    setCarImages((l) => ({ ...l, [id]: newImage }));
+  };
 
   function Avancar() {
     setErroPlaca(false);
@@ -65,8 +84,98 @@ function Tela({ navigation }) {
     }
   }
   return (
-    <VStack flex={1} alignItems="flex-start" bg="gray.600" px={2}>
+    <VStack flex={1} alignItems="flex-start" bg="gray.600" px={4}>
       <ScrollView w="100%">
+        <Label>Imagens</Label>
+        <HStack p={2} h={125} bg="gray.700" justifyContent="space-between">
+          <Pressable
+            flex={0.3}
+            h="full"
+            onPress={() =>
+              navigation.navigate("camera", {
+                handleCarImages,
+                id: "img1",
+              })
+            }
+          >
+            <Image
+              alt="image1"
+              flex={1}
+              source={
+                carImages?.img1
+                  ? { uri: carImages?.img1 }
+                  : require("../assets/no-image.png")
+              }
+            />
+          </Pressable>
+
+          <Pressable
+            flex={0.3}
+            h="full"
+            onPress={() =>
+              navigation.navigate("camera", {
+                handleCarImages,
+                id: "img2",
+              })
+            }
+          >
+            <Image
+              alt="image2"
+              flex={1}
+              resizeMode="cover"
+              source={
+                carImages?.img2
+                  ? { uri: carImages?.img2 }
+                  : require("../assets/no-image.png")
+              }
+            />
+          </Pressable>
+          <Pressable
+            flex={0.3}
+            h="full"
+            onPress={() =>
+              navigation.navigate("camera", {
+                handleCarImages,
+                id: "img3",
+              })
+            }
+          >
+            <Image
+              alt="image3"
+              flex={1}
+              h="full"
+              source={
+                carImages?.img3
+                  ? { uri: carImages?.img3 }
+                  : require("../assets/no-image.png")
+              }
+            />
+          </Pressable>
+        </HStack>
+        <HStack p={2} bg="gray.700" justifyContent="space-between">
+          <Button
+            title="Limpar"
+            flex={0.3}
+            h={8}
+            p={0}
+            onPress={() => handleCarImages(null, "img1")}
+          />
+          <Button
+            title="Limpar"
+            flex={0.3}
+            h={8}
+            p={0}
+            onPress={() => handleCarImages(null, "img2")}
+          />
+          <Button
+            title="Limpar"
+            flex={0.3}
+            h={8}
+            p={0}
+            onPress={() => handleCarImages(null, "img3")}
+          />
+        </HStack>
+
         <Label>Placa</Label>
         <Input
           error={erroPlaca}
@@ -113,7 +222,7 @@ function Tela({ navigation }) {
           onChangeText={(text) => setCor(text)}
         />
 
-        <Button mt="4" title="Prosseguir" w="full" onPress={Avancar} />
+        <Button title="Prosseguir" w="full" onPress={Avancar} my={4} />
       </ScrollView>
     </VStack>
   );
@@ -123,6 +232,7 @@ export default function Multar() {
     <Stack.Navigator screenOptions={{ headerShown: false }}>
       <Stack.Screen name="Tela" component={Tela} />
       <Stack.Screen name="Infracao" component={Infracoes} />
+      <Stack.Screen name="camera" component={Camera} />
     </Stack.Navigator>
   );
 }
